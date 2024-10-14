@@ -1,1 +1,8 @@
-start = element root { text }
+start = element root { mixed {production-cred}}
+production-cred = element production-cred {mixed {title, author, copyright}}
+title = element title {"TAXI DRIVER"}
+author = element author{"Paul Schrader"}
+copyright = element copyright {"Copyright © 1976"}
+person = element person {text}
+
+character = element character {text}

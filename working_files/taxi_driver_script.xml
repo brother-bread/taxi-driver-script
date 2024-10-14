@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    TAXI DRIVER
+
+<?xml-model href="taxi_driver_script.rnc" type="application/relax-ng-compact-syntax"?>
+<root><production-cred>
+    <title>TAXI DRIVER</title>
 Written by
-Paul Schrader
+<author>Paul Schrader</author>
 Shooting Script, 1976
-Copyright © 1976,
+<copyright>Copyright © 1976</copyright>,
 Columbia Pictures Corporation,
 Los Angeles, CA;
 Bill-Phillips, US;
-Italo-Judeo Productions, US
+Italo-Judeo Productions, US</production-cred>
+    
 "The whole conviction of my life now rests upon the belief
 that loneliness, far from being a rare and curious phenomenon,
 is the central and inevitable fact of human existence."
