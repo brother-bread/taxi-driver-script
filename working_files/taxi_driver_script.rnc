@@ -1,8 +1,40 @@
-start = element root { mixed {production-cred}}
-production-cred = element production-cred {mixed {title, author, copyright}}
+start = element root {production-cred, script}
+production-cred = element production-cred {mixed {title, writer, comp, copyright, corp, prod}}
 title = element title {"TAXI DRIVER"}
-author = element author{"Paul Schrader"}
-copyright = element copyright {"Copyright © 1976"}
+writer = element writer{"Paul Schrader"}
+comp = element comp {"Shooting Script, 1976", year}
+copyright = element copyright {"Copyright © 1976", year}
+year = attribute year {"1976"}
+corp = element corp {"Columbia Pictures Corporation"}
+prod = element prod {"Italo-Judeo Productions, US"}
 person = element person {text}
+# A real person, not a character
+
+script = element script {openQuote, text}
+# The actual script
+openQuote = element openQuote {mixed {person}}
+scene = element scene {num, text}
+num = attribute num {xsd:int}
+#Scene #. Whole numbers only
+speaker = element speaker {v.o.}
+v.o. = attribute v.o. {text}
+# Is someone speaking? and who is it?
 
 character = element character {text}
+
+par = element par {action?, tone?, desc?, text}
+action = attribute action {text}
+tone = attribute tone {text}
+desc = attribute desc {text}
+
+loc = element loc {(int | ext), text}
+int = attribute int {"true"}
+ext = attribute ext {"true"}
+# Scene location. Inside or outside?
+
+shotDesc = element shotDesc {tracking?, panning?, close-up?, text}
+# tracking, close-up, etc. are attributes. One or none each.
+tracking = attribute tracking {"true"}
+panning = attribute panning {"true"}
+close-up = attribute close-up {"true"}
+# Insert additional attributes here and in "shotDesc"

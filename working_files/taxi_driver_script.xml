@@ -4,19 +4,19 @@
 <root><production-cred>
     <title>TAXI DRIVER</title>
 Written by
-<author>Paul Schrader</author>
-Shooting Script, 1976
-<copyright>Copyright © 1976</copyright>,
-Columbia Pictures Corporation,
+<writer>Paul Schrader</writer>
+<comp year="1976">Shooting Script, 1976</comp>
+<copyright year="1976">Copyright © 1976</copyright>,
+<corp>Columbia Pictures Corporation</corp>,
 Los Angeles, CA;
 Bill-Phillips, US;
-Italo-Judeo Productions, US</production-cred>
-    
-"The whole conviction of my life now rests upon the belief
+    <prod>Italo-Judeo Productions, US</prod></production-cred>
+    <script>
+<openQuote>"The whole conviction of my life now rests upon the belief
 that loneliness, far from being a rare and curious phenomenon,
 is the central and inevitable fact of human existence."
-THOMAS WOLFE,
-"God's Lonely Man"
+<person>THOMAS WOLFE</person>,
+    "God's Lonely Man"</openQuote>
 TRAVIS BICKLE, age 26, lean, hard, the consummate loner. On
 the surface he appears good-looking, even handsome; he has a
 quiet steady look and a disarming smile which flashes from
@@ -4718,4 +4718,5 @@ watches his taxi.
 CAMERA FOLLOWS TRAVIS' taxi as it slowly disappears down
 56th Street.
 SUPERIMPOSE TITLES: THE END
+    </script>
 </root>
