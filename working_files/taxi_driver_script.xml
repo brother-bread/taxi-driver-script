@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="taxi_driver_script.rnc" type="application/relax-ng-compact-syntax"?>
-<root><production-cred>
-    <title>TAXI DRIVER</title>
+<root>
+<production-cred>
+<title>TAXI DRIVER</title>
 Written by
 <writer>Paul Schrader</writer>
 <comp year="1976">Shooting Script, 1976</comp>
@@ -10,14 +10,15 @@ Written by
 <corp>Columbia Pictures Corporation</corp>,
 Los Angeles, CA;
 Bill-Phillips, US;
-    <prod>Italo-Judeo Productions, US</prod></production-cred>
+<prod>Italo-Judeo Productions, US</prod>
+</production-cred>
     <script>
 <openQuote>"The whole conviction of my life now rests upon the belief
 that loneliness, far from being a rare and curious phenomenon,
 is the central and inevitable fact of human existence."
 <person>THOMAS WOLFE</person>,
     "God's Lonely Man"</openQuote>
-TRAVIS BICKLE, age 26, lean, hard, the consummate loner. On
+<intro><char who="trav">TRAVIS BICKLE</char>, age 26, lean, hard, the consummate loner. On
 the surface he appears good-looking, even handsome; he has a
 quiet steady look and a disarming smile which flashes from
 nowhere, lighting up his whole face. But behind that smile,
@@ -27,9 +28,9 @@ and loneliness. He seems to have wandered in from a land
 where it is always cold, a country where the inhabitants
 seldom speak. The head moves, the expression changes, but
 the eyes remain ever-fixed, unblinking, piercing empty space.
-Travis is now drifting in and out of the New York City night
+<char who="trav">Travis</char> is now drifting in and out of the New York City night
 life, a dark shadow among darker shadows. Not noticed, no
-reason to be noticed, Travis is one with his surroundings.
+reason to be noticed, <char who="trav">Travis</char> is one with his surroundings.
 He wears rider jeans, cowboy boots, a plaid western shirt
 and a worn beige Army jacket with a patch reading, "King
 Kong Company 1968-70".
@@ -38,8 +39,8 @@ lonely sex, but sex nonetheless. He is a raw male force,
 driving forward; toward what, one cannot tell. Then one looks
 closer and sees the evitable. The clock sprig cannot be wound
 continually tighter. As the earth moves toward the sun, Travis
-Bickle moves toward violence.
-FILM OPENS on EXT. of MANHATTAN CAB GARAGE. Weather-beaten
+Bickle moves toward violence.</intro>
+<scene num="1">FILM OPENS on EXT. of MANHATTAN CAB GARAGE. Weather-beaten
 sign above driveway reads, "Taxi Enter Here". Yellow cabs
 scuttle in and out. It is WINTER, snow is piled on the
 curbs, the wind is howling.
@@ -51,7 +52,7 @@ READS:
 PERSONAL OFFICE Marvis Cab Company Blue and White Cab Co.
 Acme Taxi Dependable Taxi Services JRB Cab Company Speedo
 Taxi Service
-(CONTINUED)
+(CONTINUED)</scene>
 2.
 CONTINUED:
 SOUND of office busywork: shuffling, typing, arguing.
@@ -63,7 +64,7 @@ Dishelved middle-aged New Yorker looks up from the desk. We
 CUT IN to ongoing conversation between the middle-aged
 PERSONNEL OFFICER and a YOUNG MAN standing in front on his
 desk.
-The young man is TRAVIS BICKLE. He wears his jeans, boots
+The young man is <char who="trav">TRAVIS BICKLE</char>. He wears his jeans, boots
 and Army jacket. He takes a drag off his unfiltered cigarette.
 The PERSONNEL OFFICER is beat and exhausted: he arrives at
 work exhausted. TRAVIS is something else again. His intense
@@ -201,20 +202,20 @@ coming from a distant room or storefront around the corner.
 The listener is at a safe but privileged distance.
 After examining various strata of Manhattan nightlife, CAMERA
 begins to CLOSE IN on one particular taxi, and it is assumed
-that this taxi is being driven by TRAVIS BICKLE.
+that this taxi is being driven by <character>TRAVIS BICKLE</character>.
 END CREDITS
 CUT TO:
-Travis's yellow taxi pulls in foreground. On left rear door
+<char who="trav">Travis'</char>s yellow taxi pulls in foreground. On left rear door
 are lettered the words "Dependable Taxi Service".
 We are somewhere on the upper fifties on Fifth Ave. The rain
 has not let up.
 An ELDERLY WOMAN climbs in the right rear door, crushing her
-umbrella. Travis waits a moment, then pulls away from the
+umbrella. <char who="trav">Travis</char> waits a moment, then pulls away from the
 curb with a start.
 (CONTINUED)
 6.
 CONTINUED:
-Later, we see Travis' taxi speeding down the rain-slicked
+Later, we see <char who="trav">Travis'</char> taxi speeding down the rain-slicked
 avenue. The action is periodically accompanied by Travis'
 narration. He is reading from a haphazard personal diary.
 TRAVIS (V.O.)
@@ -229,7 +230,7 @@ I'm working a single now, which means
 stretch-shifts, six to six, sometimes
 six to eight in the a.m., six days a
 week.
-A MAN IN BUSINESS SUIT hails Travis to the curb.
+A MAN IN BUSINESS SUIT hails <char who="trav">Travis</char> to the curb.
 TRAVIS (V.O.)
 It's a hustle, but it keeps me busy.
 I can take in three to three-fifty a week, more with skims.
@@ -279,9 +280,9 @@ bill into the pay drawer and jumps out of the cab. He turns
 to hail another taxi.
 MAN IN BUSINESS SUIT
 Taxi! Taxi!
-Travis writes up his trip card and drives away.
+<char who="trav">Travis</char> writes up his trip card and drives away.
 It is LATER THAT NIGHT. The rain has turned to drizzle.
-Travis drives trough another section of Manhattan.
+<char who="trav">Travis</char> drives trough another section of Manhattan.
 TRAVIS (V.O.)
 I work the whole city, up, down,
 don't make no difference to me -
@@ -417,7 +418,7 @@ Over at Love, this hooker took on
 the whole garage. Blew the whole
 fucking joint and they wouldn't even
 let her use the drinking fountain.
-Travis hands his trip sheet to a CAB OFFICIAL, nods slightly,
+<char who="trav">Travis</char> hands his trip sheet to a CAB OFFICIAL, nods slightly,
 turns and walks toward the door.
 (CONTINUED)
 11.
@@ -427,15 +428,15 @@ his jacket pockets. The sidewalks are deserted, except for
 diligent fruit and vegetable VENDORS setting up their stalls.
 He takes a deep breath of fresh air, pulls a white pill from
 his pocket, pops it into his mouth.
-Travis turns a corner, keeps walking. Ahead of him is a 24-
+<char who="trav">Travis</char> turns a corner, keeps walking. Ahead of him is a 24-
 hour PORNO THEATRE. The theatre, a blaze of cheap day-glow
 reds and yellows, is an offense to the clear, crisp morning
 air. The permanent lettering reads, "Adam Theatre, 16mm
 Sound Features". Underneath, today's feature are handlettered: "Six-Day Cruise" and "Beaver Dam".
-Travis stops at the box office, purchases a ticket, and walks
+<char who="trav">Travis</char> stops at the box office, purchases a ticket, and walks
 in.
 INT. PORNO THEATRE
-Travis stands in the aisle for a moment. He turns around,
+<char who="trav">Travis</char> stands in the aisle for a moment. He turns around,
 walking back toward the concession stand.
 CONCESSION STAND
 A plain dumpy-looking GIRL sits listlessly on a stool behind
@@ -444,7 +445,7 @@ Milo sits atop a piece of purple velvet cloth on the counter.
 The SOUND of the feature drones in the background.
 CONCESSION GIRL
 Kin I help ya?
-Travis rests his elbow on the counter, looking at the Girl.
+<char who="trav">Travis</char> rests his elbow on the counter, looking at the Girl.
 He is obviously trying to be friendly - no easy task for
 him.
 God knows he needs a friend.
@@ -476,16 +477,16 @@ TRAVIS
 That's fine.
 CONCESSION GIRL
 That's a dollar forty-seven.
-Travis lays two dollar bills on the counter.
+<char who="trav">Travis</char> lays two dollar bills on the counter.
 INT. THEATRE AUDITORIUM
-Slight TIMECUT to Travis sitting in theatre, drinking his
+Slight TIMECUT to <char who="trav">Travis</char> sitting in theatre, drinking his
 Royal Crown Cola, eating his popcorn and milk balls. His
 eyes are fixed on the screen. A MALE VOICE emanates from the
 screen:
 MALE MOVIE VOICE (O.S.)
 Come here, bitch. I'm gonna split
 you in half.
-Male Voice yields to Travis' monotone narration.
+Male Voice yields to <char who="trav">Travis'</char> monotone narration.
 TRAVIS (V.O.)
 Twelve hours of work and I still
 cannot sleep. The days dwindle on
@@ -507,7 +508,7 @@ INSIDE HEADQUARTERS
 A variety of YOUNG WORKERS joke and chatter as they labor
 through stacks of papers. The room is pierced with the sound
 of ringing phones.
-Seen from a distance - the only way Travis can see them -
+Seen from a distance - the only way <char who="trav">Travis</char> can see them -
 those are America's chosen youth: Healthy, energetic, wellgroomed, attractive, all recruited from the bucolic fields
 of Massachusetts and Connecticut.
 CAMERA FAVORS BETSY, about 25, an extremely attractive woman
@@ -651,26 +652,26 @@ How long has he been there?
 BETSY
 I don't know - but it feels like a
 long time.
-Travis' cold piercingly eyes Stare out from his cab parked
+<char who="trav">Travis'</char> cold piercingly eyes Stare out from his cab parked
 across the street from Palantine Headquarters. He is like a
 lone wolf watching the warm campfires of civilization from a
 distance. A thin red dot glows from his cigarette.
-Tom exchanges Travis' gaze.
+Tom exchanges <char who="trav">Travis'</char> gaze.
 TOM
 (determined)
 Well, I'll go out and ask him.
 As Tom walks toward front door Betsy's eyes alternate between
-him and the position where Travis sits.
+him and the position where <char who="trav">Travis</char> sits.
 EXT. PALANTINE HEADQUARTERS
 Tom strides out the front door and walks briskly across the
-street toward Travis' taxi.
-Travis spots Tom walking toward him and quickly stares up
+street toward <char who="trav">Travis'</char> taxi.
+<char who="trav">Travis</char> spots Tom walking toward him and quickly stares up
 his cab, then squeals off in a burst of billowing exhaust.
 (CONTINUED)
 17.
 CONTINUED:
 Tom watches the speeding taxi quizzically.
-Travis' taxi continues down Broadway.
+<char who="trav">Travis'</char> taxi continues down Broadway.
 CUT TO:
 INT. TRAVIS' APARTMENT
 He lies on his mattress at the ceiling. He is fully clothed
@@ -685,7 +686,7 @@ go. I do not believe one should
 devote his life to morbid selfattention, but should become a person
 like other people.
 ANOTHER DAY - LATE AFTERNOON
-Travis' taxi is driving down Broadway with the "Off Duty"
+<char who="trav">Travis'</char> taxi is driving down Broadway with the "Off Duty"
 sign on.
 POV TRACKING SHOT down Broadway. CAMERA stops at Palantine
 Campaign Headquarters. A few WORKERS remain in the office.
@@ -750,17 +751,17 @@ The kind with a brush.
 (CONTINUED)
 19.
 CONTINUED:
-Travis appears at the door. He has to push aside the JUNKIES
+<char who="trav">Travis</char> appears at the door. He has to push aside the JUNKIES
 to enter without making physical contact - something Travis
 would not relish. He may be repulsed with these people and
 this place, but he is too much a part of this to let his
 feelings rise to the surface.
-Wizard gives Travis a perfunctory wave.
+Wizard gives <char who="trav">Travis</char> a perfunctory wave.
 WIZARD
 Travis.
 TRAVIS
 Hey Wizard.
-Travis straddles a seat at the table. Dough-Boy gives Travis
+<char who="trav">Travis</char> straddles a seat at the table. Dough-Boy gives Travis
 something between a wink and an eye-twitch saying:
 DOUGH-BOY
 Yeah, that's Blush-On. My wife uses
@@ -768,7 +769,7 @@ it,
 WIZARD
 (ironic)
 Ask Travis. He's the ladies man.
-Travis shrugs and motions for a cup of coffee.
+<char who="trav">Travis</char> shrugs and motions for a cup of coffee.
 WIZARD
 (continuing)
 Well, whatever the fuck it is, she
@@ -779,7 +780,7 @@ right when we're crossing the Triboro
 bridge - she changes her pantyhose!
 DOUGH-BOY
 No.
-Travis turns his head. He appears not to be interested, but
+<char who="trav">Travis</char> turns his head. He appears not to be interested, but
 is.
 WIZARD
 Yeah.
@@ -820,7 +821,7 @@ Some fleet driver for Bell just cut
 up. Just heard it on the radio.
 DOUGH-BOY
 Stick up?
-A WAITRESS brings Travis' coffee and a glass of water. He
+A WAITRESS brings <char who="trav">Travis'</char> coffee and a glass of water. He
 asks for a cheeseburger.
 WIZARD
 Sure. What do you think? She wanted
@@ -837,19 +838,19 @@ And what happened?
 (CONTINUED)
 21.
 CONTINUED:
-Travis awaits Wizard's answer.
+<char who="trav">Travis</char> awaits Wizard's answer.
 WIZARD
 She stayed in the cab, what's she
 gonna do? but she stiffed me. A real
 skunk.
 DOUGH-BOY
 A real skunk.
-Wizard realizes Travis and Dough-Boy may not have met.
+Wizard realizes <char who="trav">Travis</char> and Dough-Boy may not have met.
 WIZARD
 (paternal)
 Travis, you know Dough-Boy, Charlie
 T.?
-Charlie T. nods sleepily. Travis indicates he knows DoughBoy.
+Charlie T. nods sleepily. <char who="trav">Travis</char> indicates he knows DoughBoy.
 DOUGH-BOY
 Yeah. We went to Harvard together.
 (laughs)
@@ -862,7 +863,7 @@ Look who's talking?
 (gestures around table)
 Who else would stay up all night to
 catch the morning rush hour?
-Travis sips his coffee. Charlie T.'s eyelids slip shut.
+<char who="trav">Travis</char> sips his coffee. Charlie T.'s eyelids slip shut.
 WIZARD
 (to Travis)
 So howsit?
@@ -882,13 +883,13 @@ DOUGH-BOY
 Where.
 TRAVIS
 In the jungle. 122nd.
-Travis' eyes turn toward the restaurant's other patrons.
+<char who="trav">Travis'</char> eyes turn toward the restaurant's other patrons.
 POV: THREE STREET PEOPLE sitting at a table. One GUY, stoned,
 stares straight ahead. A raggedly attractive GIRL rest her
 head on the shoulder of the other, a heavily bearded YOUNG
 MAN with a headband. They kiss and tease each other,
 momentarily lost in their separate world.
-Travis watches the hippie couple closely, his feeling sharply
+<char who="trav">Travis</char> watches the hippie couple closely, his feeling sharply
 divided between cultural contempt and morose jealousy.
 Why should these people enjoy the love and intimacy that has
 always eluded him? He must enjoy these schizoid emotions,
@@ -902,7 +903,7 @@ WIZARD
 St.)
 Fuckin' Mau Mau land, that's what it
 is.
-Travis turns back to his companions.
+<char who="trav">Travis</char> turns back to his companions.
 TRAVIS
 Huh?
 DOUGH-BOY
@@ -930,7 +931,7 @@ deal. Lotsa shit around.
 WIZARD
 The cops and company raise hell they
 find out.
-Travis drops two Alka-Seltzer into his glass of water.
+<char who="trav">Travis</char> drops two Alka-Seltzer into his glass of water.
 DOUGH-BOY
 Truck drivers bring up Harlem Specials
 that blow up in your hand. But this
@@ -964,11 +965,11 @@ sleeping.
 (CONTINUED)
 24.
 CONTINUED:
-Dough-Boy exits. Travis smiles perfunctorily, then looks
+Dough-Boy exits. <char who="trav">Travis</char> smiles perfunctorily, then looks
 back at Wizard. They really don't have much to talk about,
 and the Wizard doesn't care to manufacture any more
 conversations.
-Travis scans the greasy spoon: The scene is unchanged.
+<char who="trav">Travis</char> scans the greasy spoon: The scene is unchanged.
 CUT TO:
 EXT. PALANTINE HEADQUARTERS - ANOTHER DAY
 Traffic passes.
@@ -1072,22 +1073,22 @@ for sure.
 TOM
 Show me how he did that again.
 EXT. ACROSS THE STREET FROM HEADQUARTERS
-Travis is striding briskly across Broadway toward the
+<char who="trav">Travis</char> is striding briskly across Broadway toward the
 Palantine Headquarters.
 He s dressed the best we have seen him; his pants (not jeans)
 are pressed, his boots shined, his hair combed. Under his
 Army jacket he wears a freshly laundered shirt and ivy league
 tie. He drops his cigarette, steps on it and walks in.
-Watching Travis enter Palantine's Headquarters, we are
-surprised to realize that Travis is really quite attractive.
+Watching <char who="trav">Travis</char> enter Palantine's Headquarters, we are
+surprised to realize that <char who="trav">Travis</char> is really quite attractive.
 His deformities are psychological, not physical. He believes
 he is cursed, and therefore he is.
-Travis walks briskly into the office, and heads toward Betsy's
-desk. Tom walks over to greet him, but Travis ignores him.
+<char who="trav">Travis</char> walks briskly into the office, and heads toward Betsy's
+desk. Tom walks over to greet him, but <char who="trav">Travis</char> ignores him.
 TRAVIS
 (at Betsy's desk)
 I want to volunteer.
-As the CAMERA examines Travis' face more closely, one can
+As the CAMERA examines <char who="trav">Travis'</char> face more closely, one can
 see the hollowness wrought by lack of sleep and sufficient
 diet.
 (CONTINUED)
@@ -1096,7 +1097,7 @@ CONTINUED:
 TOM
 (at Betsy's desk)
 If you'll come this way.
-Travis elbows Tom off.
+<char who="trav">Travis</char> elbows Tom off.
 TRAVIS
 (to Betsy)
 No. I want to volunteer to you.
@@ -1204,7 +1205,7 @@ telephones, and I say to myself,
 that's a lonely girl. She needs a
 friend. And I'm gonna be her friend.
 (smiles)
-Travis rarely smiles, but when he does his whole face glows.
+<char who="trav">Travis</char> rarely smiles, but when he does his whole face glows.
 It is as if he is able to tap an inner reserve of charm
 unknown even to himself. Betsy is completely disarmed.
 BETSY
@@ -1235,7 +1236,7 @@ TRAVIS
 My name is Travis.
 BETSY
 Thank you, Travis.
-Travis nods, turns and exits.
+<char who="trav">Travis</char> nods, turns and exits.
 Tom, who has been watching this interchange with a pseudostandoffish (actually jealous) air, steps over to Betsy. His
 manner demands some sort of explanation of what Betsy was
 doing.
@@ -1245,17 +1246,17 @@ BETSY
 I'm just going to find out what the
 cabbies are thinking.
 CUT TO:
-Travis is pacing back and forth on Broadway just beyond the
+<char who="trav">Travis</char> is pacing back and forth on Broadway just beyond the
 Palantine Headquarters. He checks his watch.
 TRAVIS (V.O.)
 April 26, 1972. Four o'clock p.m. I
 took Betsy to the Mayfair Coffee
 Shop on Broadway...
 INT. COFFEE SHOP
-Travis and Betsy are sitting in a booth of a small New York
-Coffee Shop. They both have been served coffee; Travis is
+<char who="trav">Travis</char> and Betsy are sitting in a booth of a small New York
+Coffee Shop. They both have been served coffee; <char who="trav">Travis</char> is
 nervously turning his cup around in his hands.
-As Travis speaks V.O., WAITRESS brings their orders: Apple
+As <char who="trav">Travis</char> speaks V.O., WAITRESS brings their orders: Apple
 pie for TRAVIS, fruit compote for BETSY.
 (CONTINUED)
 31.
@@ -1267,7 +1268,7 @@ I think that was a good selection.
 Betsy had coffee and a fruit salad
 dish. She could have had anything
 she wanted.
-Betsy's conversation interrupts Travis' V.O.:
+Betsy's conversation interrupts <char who="trav">Travis'</char> V.O.:
 BETSY
 We've signed up 15.000 Palantine
 volunteers in New York so far. The
@@ -1281,10 +1282,10 @@ Like my room, my possessions.
 I should get one of those signs that
 says, "One of these days I'm Gonna
 Organezizied".
-Travis contorts his mouth to match his mispronunciation,
+<char who="trav">Travis</char> contorts his mouth to match his mispronunciation,
 than breaks into a big, friendly, infectious grin. The very
 sight of it makes one's heart proud.
-Betsy cannot help but be caught up in Travis' gin. Travis'
+Betsy cannot help but be caught up in <char who="trav">Travis'</char> gin. <char who="trav">Travis'</char>
 contagious, quicksilver moods cause:
 BETSY
 (laughing)
@@ -1358,7 +1359,7 @@ The full moon. One night I had three
 or four weirdoes in a row and I looked
 up and, sure enough, there it was -
 the full moon.
-Betsy laughs. Travis continues:
+Betsy laughs. <char who="trav">Travis</char> continues:
 TRAVIS
 Oh, yeah. People will do anything in
 front of a taxi driver. I mean
@@ -1369,7 +1370,7 @@ to embarrass you.
 (a bitterness emerges)
 It's like you're not even there, not
 even a person. Nobody knows you.
-Betsy cuts Travis' bitterness short:
+Betsy cuts <char who="trav">Travis'</char> bitterness short:
 BETSY
 Com'on, Travis. It's not that bad.
 I take lots of taxis.
@@ -1391,7 +1392,7 @@ folders and a pink bag from Saks.
 (CONTINUED)
 34.
 CONTINUED:
-Betsy, realizing Travis remembers her precisely, scrambles
+Betsy, realizing <char who="trav">Travis</char> remembers her precisely, scrambles
 for a polite rationale for her behavior:
 BETSY
 You're right! Now I remember! It was
@@ -1504,27 +1505,27 @@ much.
 BETSY
 (slowly)
 Kris Kristofferson.
-Travis looks at Betsy intently and they exchange smiles.
+<char who="trav">Travis</char> looks at Betsy intently and they exchange smiles.
 CUT TO:
-Travis is walking confusedly around SAM GOODY'S at MIDDAY,
+<char who="trav">Travis</char> is walking confusedly around SAM GOODY'S at MIDDAY,
 obviously unable to locate what he desires.
-Travis is lost among the hip, young intellectual type that
+<char who="trav">Travis</char> is lost among the hip, young intellectual type that
 populate the store. He watches the stylish, attractive female
 help, unable to come right out and requests what he desires.
 A young SALESGIRL sees his plight, walks over and asks if he
-needs any help. Travis INAUDIBLY says a name to her, although
+needs any help. <char who="trav">Travis</char> INAUDIBLY says a name to her, although
 the name is obviously Kris Kristofferson.
 The Salesgirl digs out Kristofferson's "Silver-Tongued Devil"
 album for him.
-Travis says something additional to the Salesgirl and she
+<char who="trav">Travis</char> says something additional to the Salesgirl and she
 goes off to gift-wrap the album.
-Travis emerges from the RECORD STORE, the brightly giftwrapped album proudly tucked under his arm.
+<char who="trav">Travis</char> emerges from the RECORD STORE, the brightly giftwrapped album proudly tucked under his arm.
 CUT TO:
 (CONTINUED)
 37.
 CONTINUED:
-Lengthy POV SHOT from Travis' vantage point behind the wheel.
-We see the city as Travis sees it. The front windshield is a
+Lengthy POV SHOT from <char who="trav">Travis'</char> vantage point behind the wheel.
+We see the city as <char who="trav">Travis</char> sees it. The front windshield is a
 little dirty, the lighted meter just up at the low right
 screen. The intercom crackles with STATIC and MESSAGES.
 The light turns green; we take off with a start. A short
@@ -1544,9 +1545,9 @@ live fare. Middle-aged LOCAL WOMAN: Short fare to the East
 Side, good tip.
 We pull to the curb, waiting for her to get in. It is a long
 wait - a Black STREET WALKER crosses in front of the cab. We
-focus on (as Travis would) a YOUNG COUPLE embracing in the
+focus on (as <char who="trav">Travis</char> would) a YOUNG COUPLE embracing in the
 distance.
-As we travel, we hear Travis' random thoughts about selecting
+As we travel, we hear <char who="trav">Travis'</char> random thoughts about selecting
 fares and tips:
 TRAVIS (V.O.)
 You work at night, you get an
@@ -1576,12 +1577,12 @@ Check back mirror - she's getting out two bills. Two quarters
 and a dime change. Tip'll be either.25 or .35.
 The tip comes back: 35 cents - good tip. Good lady. We take
 off again with a jolt.
-This is Travis' world: Dark side streets, garish glaring
+This is <char who="trav">Travis'</char> world: Dark side streets, garish glaring
 main streets, quick glances, quicker evaluations - a dozen
 instantaneous decisions a minute. Are these people, are these
 objects?
 EXT. TRAVIS' TAXI speed down darkened street.
-Travis lets off a fare and pulls into line at the Plaza.
+<char who="trav">Travis</char> lets off a fare and pulls into line at the Plaza.
 TRAVIS (V.O.)
 I called Betsy again at her office,
 and she said maybe we could go to a
@@ -1592,11 +1593,11 @@ At first she hesitated, but I called her again and she agreed.
 Betsy. Betsy what? I forgot to ask
 her last name again. Damn. I've got
 to remember stuff like that.
-Travis' thoughts are with Betsy, as THREE MEN enter Travis'
+<char who="trav">Travis'</char> thoughts are with Betsy, as THREE MEN enter <char who="trav">Travis'</char>
 cab. He activates the meter and pulls off.
 MAN'S VOICE
 St. Regis Hotel.
-Travis checks the mirror. Scanning across the back seat, he
+<char who="trav">Travis</char> checks the mirror. Scanning across the back seat, he
 recognizes the middle passenger. It is CHARLES PALANTINE,
 candidate for President. He must have left the Hotel shortly
 after BETSY.
@@ -1616,7 +1617,7 @@ I don't think we have to worry about
 anybody here committing themselves
 until things start coming in from
 California.
-Travis recognizes his passenger. He puts out his cigarette.
+<char who="trav">Travis</char> recognizes his passenger. He puts out his cigarette.
 TRAVIS
 (interrupting)
 Say, aren't you Charles Palantine,
@@ -1631,7 +1632,7 @@ comes in this cab that they should
 vote for you.
 PALANTINE
 (pleased; glances to
-check Travis' license)
+check <char who="trav">Travis'</char> license)
 Why, thank you Travis.
 TRAVIS
 I'm sure you'll win, sir. Everybody
@@ -1675,7 +1676,7 @@ never go away. We need a President
 that would clean up this whole mess.
 Flush it out.
 Palantine is not a Hubert Humphrey-type professional
-bullshitter, and Travis' intense reply stops him dead in his
+bullshitter, and <char who="trav">Travis'</char> intense reply stops him dead in his
 tracks. He is forced to fall back on a stock answer but tries
 to give it some meaning.
 PALANTINE
@@ -1702,10 +1703,10 @@ TRAVIS
 (calling back)
 Thank you, sir. You're a good man,
 sir.
-Travis' taxi departs.
+<char who="trav">Travis'</char> taxi departs.
 PALANTINE and AIDES walk up carpet to the St. Regis.
 CAMERA CLOSES IN on PALANTINE as he stops, turns back and
-watches Travis' departing taxi.
+watches <char who="trav">Travis'</char> departing taxi.
 PALANTINE turns back and ascends the hotel steps with his
 AIDES.
 EXT. MANHATTAN STREET - EARLY MORNING
@@ -1723,8 +1724,8 @@ Broadway toward Times Square. BETSY does not let their bodies
 touch as they walk although TRAVIS contemplates edging closer
 to her.
 Betsy has opened the package and is admiring the record -
-or, rather, Travis' sentiment behind giving it.
-Travis looks around himself with pride: This is a moment in
+or, rather, <char who="trav">Travis'</char> sentiment behind giving it.
+<char who="trav">Travis</char> looks around himself with pride: This is a moment in
 his life - one of the few.
 BETSY
 You didn't have to spend your money -
@@ -1764,17 +1765,17 @@ for me on your player.
 Betsy's face backtracks a bit. Maybe she was wrong to go out
 with this fellow she doesn't know.
 She makes a polite laugh.
-LATER. Travis and Betsy are in TIMES SQUARE, turning the
-corner from Broadway to 42nd Street. Travis carries the
+LATER. <char who="trav">Travis</char> and Betsy are in TIMES SQUARE, turning the
+corner from Broadway to 42nd Street. <char who="trav">Travis</char> carries the
 album under his arm.
 They approach the garish marquee of a large midtown porno
 theatre advertising "The Swedish Marriage Manual". The box
 office is flanked on both sides by glass cages filled with
 explicit publicity stills. Offending portions have been
 blocked out with black tape.
-Travis steps over to the window and buys two $5 tickets.
+<char who="trav">Travis</char> steps over to the window and buys two $5 tickets.
 Betsy, befuddled, watches him. She doesn't know what to say.
-Travis returns with the tickets.
+<char who="trav">Travis</char> returns with the tickets.
 Betsy still has not fully comprehended what is happening:
 (CONTINUED)
 43.
@@ -1791,13 +1792,13 @@ No, these are the kind that couples
 go to. They're not like the other
 movies. All kinds of couples go.
 Honest. I've seen them.
-Travis seems confused. He is so much part of his own world,
+<char who="trav">Travis</char> seems confused. He is so much part of his own world,
 he fails to comprehend another's world. Compared to the movies
 he sees, this is respectable. But then there's also something
-that Travis could not even acknowledge, much less admit:
+that <char who="trav">Travis</char> could not even acknowledge, much less admit:
 That he really wants to get this pure white girl into that
 dark porno theatre.
-Travis makes an awkward gesture to escort Betsy into the
+<char who="trav">Travis</char> makes an awkward gesture to escort Betsy into the
 theatre. Betsy looks at the tickets, at the theatre, at
 Travis. She mentally shakes her head and walks toward the
 turnstile. She thinks to herself: "What the Hell. What can
@@ -1807,17 +1808,17 @@ she's been raised not to offend her date. A perverse logic
 which applies even more in offsetting circumstances like
 these.
 INSIDE THE THEATER
-Travis escorts Betsy to an empty center row. Travis was right.
+<char who="trav">Travis</char> escorts Betsy to an empty center row. <char who="trav">Travis</char> was right.
 Couples do go to films like this. There are at least six or
 seven other MEN with their bewigged "DATES".
-Travis settles into his familiar porno theatre slouch. Betsy
+<char who="trav">Travis</char> settles into his familiar porno theatre slouch. Betsy
 looks curiously from side to side.
 ON SCREEN, a conservatively-dressed middle-aged woman is
 speaking in Swedish about importance of healthy sex life in
 a happy marriage. Subtitles translate her words. Then,
 without warning, there is a direct CUT to a couple copulating
 on a sterile table-like bed.
-Travis watches intently. The color, however, is slowly
+<char who="trav">Travis</char> watches intently. The color, however, is slowly
 draining from Betsy's cheeks. One thought fills her mind:
 "What am I doing here?"
 (CONTINUED)
@@ -1835,7 +1836,7 @@ gets up and starts to leave. Travis, confused, hustles after
 her.
 He follows her out of the theatre.
 ON THE SIDEWALK
-Travis catches up with her.
+<char who="trav">Travis</char> catches up with her.
 TRAVIS
 Where are you going?
 BETSY
@@ -1869,15 +1870,15 @@ TRAVIS
 We can go to another movie if you
 like, I don't care. I got money.
 There's plenty...
-Travis gestures toward the long row of 42nd Street marquees,
+<char who="trav">Travis</char> gestures toward the long row of 42nd Street marquees,
 but is interrupted by Betsy:
 BETSY
 If you just wanted to fuck, why didn't
 you just come right out and say it?
-Travis is flabbergasted by Betsy's blunt language. His arm
+<char who="trav">Travis</char> is flabbergasted by Betsy's blunt language. His arm
 still gestures toward the marquees, his lips continue to
 move, but words do not come out.
-Unable to respond to Betsy's question, Travis picks up where
+Unable to respond to Betsy's question, <char who="trav">Travis</char> picks up where
 he left off:
 TRAVIS
 ... there's plenty of movies around
@@ -1929,12 +1930,12 @@ Betsy accepts the record, but quickly turns and hails a taxi.
 BETSY
 Taxi!
 A taxi quickly pulls up.
-Travis feebly protests to no one in particular:
+<char who="trav">Travis</char> feebly protests to no one in particular:
 TRAVIS
 But I got a taxi.
 Betsy gives instructions to CAB DRIVER, looks briefly back
 at Travis, then straight ahead. Taxi speeds off.
-Travis looks around helplessly: A cluster of PEDESTRIANS on
+<char who="trav">Travis</char> looks around helplessly: A cluster of PEDESTRIANS on
 the crowded street has stopped to watch the argument. Travis
 (CONTINUED)
 47.
@@ -1943,7 +1944,7 @@ looks back at the woman in the porno theatre box office who
 has also been following the argument.
 CUT TO:
 INSIDE TRAVIS' APARTMENT
-Travis is sitting at the table. There are some new items on
+<char who="trav">Travis</char> is sitting at the table. There are some new items on
 the table: His giant econo-sized bottle of vitamins, a giant
 econo-sized bottle of aspirins, a pint of apricot brandy, a
 partial loaf of cheap white bread.
@@ -1954,25 +1955,25 @@ TRAVIS (V.O.)
 May 8, 1972. My life has taken another
 turn again. The days move along with
 regularity...
-C.U. of notebook: Travis is no longer sitting at the desk.
+C.U. of notebook: <char who="trav">Travis</char> is no longer sitting at the desk.
 The pencil rests on the open notebook.
 LATER THAT DAY: TRAVIS has pulled his straight-backed chair
 around and is watching his small portable TV, which rests on
 the upright melon crate.
 A cereal bowl partially filled with milk rests in his lap.
-Travis pours a couple shots of the apricot brandy into the
+<char who="trav">Travis</char> pours a couple shots of the apricot brandy into the
 bowl, dips folded chunks of white bread into the mixture,
 and eats them.
-Travis is watching early evening NEWS PROGRAM. TV background
+<char who="trav">Travis</char> is watching early evening NEWS PROGRAM. TV background
 SOUND. Charles Palantine is being interviewed somewhere on
 the campaign trail.
 TRAVIS (V.O.)
 ... one day indistinguishable from
 the next, a long continuous chain,
 then suddenly - there is a change.
-Betsy is walking down a midtown street when Travis suddenly
+Betsy is walking down a midtown street when <char who="trav">Travis</char> suddenly
 appears before her. He has been waiting.
-Travis tries to make conversation but she doesn't listen.
+<char who="trav">Travis</char> tries to make conversation but she doesn't listen.
 She motions for him to go away and keeps on walking.
 (CONTINUED)
 48.
@@ -1980,10 +1981,10 @@ CONTINUED:
 Travis, protesting, follows.
 CUT TO:
 INT. BUILDING - DAY
-Travis speaks intensely into a wall pay phone.
+<char who="trav">Travis</char> speaks intensely into a wall pay phone.
 TRAVIS (V.O.)
 I tried to call her several times.
-We hear Travis' Voice on the phone.
+We hear <char who="trav">Travis'</char> Voice on the phone.
 TRAVIS
 (smoking a cigarette)
 you feeling better? You said you
@@ -1991,7 +1992,7 @@ didn't feel so good...
 TRAVIS (V.O.)
 But after the first call, she would
 no longer come to the phone.
-Travis holds the receiver in his hand. The other party has
+<char who="trav">Travis</char> holds the receiver in his hand. The other party has
 hung up.
 TRACKING SHOT across interior lower wall of TRAVIS' APARTMENT.
 Against the stark wall there is a row of wilted and dying
@@ -2009,7 +2010,7 @@ A drama is acted out at PALANTINE HEADQUARTERS: Travis,
 groggy and red-eyed from lack of sleep, walks into the
 campaign headquarters about NOONTIME.
 Betsy is standing near the rear of the office; she ducks
-from sight when she sees Travis enter. Travis' path is cut
+from sight when she sees <char who="trav">Travis</char> enter. <char who="trav">Travis'</char> path is cut
 short by Tom's large-framed body. There is no live sound.
 (CONTINUED)
 49.
@@ -2019,24 +2020,24 @@ I realize now how much she is like
 the others, so cold and distant.
 Many people are like that. They're
 like a union.
-Travis tries to push his way past Tom but Tom grabs him.
-Travis says something sharply to Tom and the two scuffle.
+<char who="trav">Travis</char> tries to push his way past Tom but Tom grabs him.
+<char who="trav">Travis</char> says something sharply to Tom and the two scuffle.
 Tom, by far the taller and stronger, quickly overcomes Travis,
 wrenching his arm behind his back.
-Travis kicks and protests as Tom leads him to the front door.
+<char who="trav">Travis</char> kicks and protests as Tom leads him to the front door.
 ON THE SIDEWALK
-Travis' efforts quickly subside when Tom motions to a nearby
-POLICEMAN. Travis quiets down and walks off.
+<char who="trav">Travis'</char> efforts quickly subside when Tom motions to a nearby
+POLICEMAN. <char who="trav">Travis</char> quiets down and walks off.
 CUT TO:
 EXT.
-Travis is again making his way through the garish urban night.
+<char who="trav">Travis</char> is again making his way through the garish urban night.
 He stops for a PASSENGER on PARK AVE. A middle-aging
 professorial executive.
 C.U. TRAVIS: His face is expressionless. The MAN makes
 himself comfortable in the back seat.
 PROFESSIONAL PASSENGER
 Jackson Heights.
-Travis has no intention of driving out to Jackson Heights
+<char who="trav">Travis</char> has no intention of driving out to Jackson Heights
 and coming back with a fare.
 TRAVIS
 I'm off duty.
@@ -2059,8 +2060,8 @@ of taxi)
 it just takes a while to warm up.
 Like a TV.
 TRAVIS doesn't budge. PROFESSIONAL PASSENGER curses to himself
-and exits cab. Travis takes off.
-POV as Travis' eyes dwell on the young HIP COUPLES coming
+and exits cab. <char who="trav">Travis</char> takes off.
+POV as <char who="trav">Travis'</char> eyes dwell on the young HIP COUPLES coming
 out of a East Side movie house.
 LATER THAT NIGHT, TRAVIS pulls over for a young (midtwenties) MAN wearing a leather sports jacket.
 TRAVIS eyes his passenger in rear-view mirror.
@@ -2070,7 +2071,7 @@ EXT.
 TRAVIS' taxi speeds off.
 LATER, TRAVIS' taxi slows down as it approaches 400 block of
 Central Park West.
-Travis checks apartment numbers.
+<char who="trav">Travis</char> checks apartment numbers.
 YOUNG PASSENGER
 Just pull over to the curb a moment.
 TRAVIS turns the wheel.
@@ -2111,12 +2112,12 @@ YOUNG PASSENGER
 What do you think of that, cabbie?
 C.U. YOUNG PASSENGER's face: it is gaunt, drained of blood,
 full of fear and anger.
-Travis does not respond.
+<char who="trav">Travis</char> does not respond.
 YOUNG PASSENGER
 Huh?
 (a beat)
 What do you think of that, huh?
-Travis shrugs, gesturing toward meter.
+<char who="trav">Travis</char> shrugs, gesturing toward meter.
 YOUNG PASSENGER
 I'm gonna kill her with a .44 Magnum
 pistol.
@@ -2128,7 +2129,7 @@ to a woman's face, cabbie?
 (pause)
 Did you ever see what it can do to a
 woman's pussy, cabbie?
-Travis says nothing.
+<char who="trav">Travis</char> says nothing.
 (CONTINUED)
 52.
 CONTINUED:
@@ -2139,19 +2140,19 @@ You must think I'm real sick, huh?
 A real pervert. Sitting here and
 talking about a woman's pussy and a
 .44, huh?
-CAMERA CLOSES IN on Travis' face: He is watching the woman
+CAMERA CLOSES IN on <char who="trav">Travis'</char> face: He is watching the woman
 in the seventh floor window with complete and total
 absorption. It's the same glazed-over stare we saw in his
 eyes as he watched the porno movie.
 FADE TO:
 BROOKLYN STREET CORNER - DAY
-Travis stands near the corner wearing his boots, jeans,
+<char who="trav">Travis</char> stands near the corner wearing his boots, jeans,
 western shirt and army jacket.
 He pulls his aspiring bottle out of his pocket, shakes three
 or four into his palm, pops them into his mouth and chews.
-An "Off Duty" taxi pulls up to the curb. Travis gets in.
+An "Off Duty" taxi pulls up to the curb. <char who="trav">Travis</char> gets in.
 INSIDE TAXI
-Dough-Boy leans back from the wheel and greets Travis as he
+Dough-Boy leans back from the wheel and greets <char who="trav">Travis</char> as he
 enters.
 DOUGH-BOY
 Hey Travis. This here's Easy Andy.
@@ -2161,7 +2162,7 @@ young man about 29. He wears a pin-striped suit, white shirt
 and floral tie. His hair is modishly long.
 ANDY
 Hello Travis.
-Travis nods as the taxi speeds off.
+<char who="trav">Travis</char> nods as the taxi speeds off.
 Dough-Boy slows down near an economy hotel. Not a flop house,
 but not do fancy they care what the guests do in the privacy
 of their rooms.
@@ -2172,19 +2173,19 @@ Pay Dough-Boy here.
 (CONTINUED)
 53.
 CONTINUED:
-Travis pulls a twenty out of his pocket and gives it to DoughBoy.
+<char who="trav">Travis</char> pulls a twenty out of his pocket and gives it to DoughBoy.
 TRAVIS
 20 bucks?
 DOUGH-BOY
 (takes bill)
 Yeah. Hey thanks. That's real nice,
 Travis.
-Travis and Andy get out of the cab and walk toward the hotel.
+<char who="trav">Travis</char> and Andy get out of the cab and walk toward the hotel.
 Dough-Boy pulls away.
 As they enter the hotel, they pass a JUNKIE, stoned out and
 spread-eagled across the hood of a derelict old blue dodge.
 INT. HOTEL
-Travis follows Andy up the worn carpeted stairs and down the
+<char who="trav">Travis</char> follows Andy up the worn carpeted stairs and down the
 hallway. Andy unlocks the door to one of the rooms.
 The HOTEL ROOM is barren and clean; there's no sign anyone
 is staying in it. The fire escape is appropriately near.
@@ -2223,9 +2224,9 @@ that's only a hundred over list.
 Easy Andy is a later version of the fast-talking, goodlooking kid in college who was always making money on one
 scheme or another. In high school he sold lottery tickets,
 in college he scored dope, and now he's hustling hand guns.
-Andy holds the Magnum out for Travis' inspection. There's a
+Andy holds the Magnum out for <char who="trav">Travis'</char> inspection. There's a
 worshipful CLOSEUP of the .44 Magnum. It is a monster.
-Travis hefts the huge gun. It seems out of place in his hand.
+<char who="trav">Travis</char> hefts the huge gun. It seems out of place in his hand.
 It is built on Michelangelo's scale. The Magnum belongs in
 the hand of a marble god, not a slight taxi driver. Travis
 hands the gun back to Andy.
@@ -2250,7 +2251,7 @@ them now. But the Wesson .38 - only
 $250 - and worth every dime of it.
 (he hefts the .38)
 Throw in a holster for $10.
-Travis hefts the nickel-plated .38, points it out the window.
+<char who="trav">Travis</char> hefts the nickel-plated .38, points it out the window.
 (CONTINUED)
 55.
 CONTINUED:
@@ -2272,7 +2273,7 @@ it's as fast as the Devil. Handy
 little gun, you can carry it almost
 anywhere. I'll throw it in for another
 $125.
-Travis holds the .32 Revolver, hefts it, slips it under his
+<char who="trav">Travis</char> holds the .32 Revolver, hefts it, slips it under his
 belt and pulls his shirt over it. He turns from side to side,
 to see how it rides in his waist.
 TRAVIS
@@ -2312,7 +2313,7 @@ Sure, here, take this card, go to
 this place and give 'em the card.
 They'll charge you, but there won't
 be any hassle.
-Travis pulls out a roll of crisp one hundred dollar bills
+<char who="trav">Travis</char> pulls out a roll of crisp one hundred dollar bills
 and counts off eight.
 ANDY
 You in Nam? Can't help but notice
@@ -2324,7 +2325,7 @@ ANDY
 Vietnam? I saw it on your jacket.
 Where were you? Bet you got to handle
 a lot of weapons out there.
-Travis hands Andy the bills. Andy counts them and gives Travis
+<char who="trav">Travis</char> hands Andy the bills. Andy counts them and gives Travis
 a twenty and five.
 TRAVIS
 Yeah. I was all around. One hospital,
@@ -2350,16 +2351,16 @@ TRAVIS (CONT'D)
 You got anything to carry these in?
 TRAVIS
 (gestures to pistols)
-Travis is like a light switch: For long periods he goes along
+<char who="trav">Travis</char> is like a light switch: For long periods he goes along
 dark and silent, saying nothing; then suddenly, the current
 is turned on and the air is filled with the electricity of
-his personality. Travis' inner intensity sets Andy back a
+his personality. <char who="trav">Travis'</char> inner intensity sets Andy back a
 bit, but he quickly recovers.
 ANDY
 Sure.
 Andy pulls a gym bag from under his bed. He wraps the gun in
 the sheet in the bag and zips it up. An identical gym bag
-can be partially seen under the bed. He hands Travis the
+can be partially seen under the bed. He hands <char who="trav">Travis</char> the
 bag.
 ANDY
 You like ball games?
@@ -2375,7 +2376,7 @@ Nah. I ain't interested.
 Andy closes and locks the suitcases.
 ANDY
 Okay, okay.
-Travis turns to leave.
+<char who="trav">Travis</char> turns to leave.
 ANDY
 Wait a second, Travis. I'll walk you
 out.
@@ -2386,7 +2387,7 @@ changed. The long, blank wall behind the table is now
 covered with tacked-up charts, pictures, newspaperclippings, maps.
 CAMERA does not come close enough to discern the exact
 contents of these clippings.
-Travis is in C.U. in the middle of the floor doing push-ups.
+<char who="trav">Travis</char> is in C.U. in the middle of the floor doing push-ups.
 He is bareback, wearing only his jeans. There is a long scar
 across his left side.
 TRAVIS (V.O.)
@@ -2403,11 +2404,11 @@ INT. FIRING RANGE
 The CRACKING SOUND of rapid-fire pistol shots fills the musty
 air of the firing range. The walls are heavily soundproofed,
 and sawdust is spread over the floor.
-Travis stands rock solid, firing the .44 Magnum at an arm's
-length. With each blasting discharge from the Magnum, Travis'
+<char who="trav">Travis</char> stands rock solid, firing the .44 Magnum at an arm's
+length. With each blasting discharge from the Magnum, <char who="trav">Travis'</char>
 body shudders and shakes, his arm as if each recoil from the
 giant gun was a direct attack on his masculinity.
-Travis fires the Magnum as quickly as he can re-set, re-aim
+<char who="trav">Travis</char> fires the Magnum as quickly as he can re-set, re-aim
 and re-fire. The Magnum is empty, he sets it down, picks up
 the .38 Special and begins firing as soon as he can aim.
 After the .38, comes the .25: It is as if he were in a contest
@@ -2416,7 +2417,7 @@ guns are discharged, he begins reloading them without a
 moment's hesitation.
 Downrange, the red and white targets have the black outline
 of a human figure drawn over them. The contour-man convulses
-under the steady barrage of Travis' rapid-fire shots.
+under the steady barrage of <char who="trav">Travis'</char> rapid-fire shots.
 59.
 INT. APARTMENT
 TRAVIS, now wearing an unfastened green plaid western shirt,
@@ -2811,7 +2812,7 @@ I got a girl in the back and she
 doesn't have the fare. She wants me
 to come in back and collect.
 What should I do?
-The cabbies laugh. Across the cafeteria Travis selects a
+The cabbies laugh. Across the cafeteria <char who="trav">Travis</char> selects a
 cup of coffee and some pastries.
 CHARLIE T
 This is on the two-way with about a
@@ -3094,7 +3095,7 @@ That's someone else.
 TOM
 Now look more closely. Look around
 the eyes and chin. See? See there?
-CAMERA CLOSES IN on TRAVIS BICKLE standing in the CROWD: he
+CAMERA CLOSES IN on <char who="trav">TRAVIS BICKLE</char> standing in the CROWD: he
 has shaved his head to a short stubble. There he is: brushcut, wearing a giant grin, and a large "Palantine '72" button.
 Although it is a pleasant sunny day, TRAVIS wears a bulky
 bulged-out Army jacket.
@@ -3422,8 +3423,8 @@ You see that guy over there?
 (nods)
 His name is Sport. Go talk to him.
 I'll wait here.
-Travis' eyes follow Iris' nod until they reach Sport, standing
-in a doorway in his lime green jacket. Travis walks toward
+<char who="trav">Travis'</char> eyes follow Iris' nod until they reach Sport, standing
+in a doorway in his lime green jacket. <char who="trav">Travis</char> walks toward
 him.
 Sport, a thirtiesh white greaser, has the affections of a
 black pimp. His hips are jiving, his fingers softly snapping.
@@ -3432,7 +3433,7 @@ married..." His complexion is sallow; his eyes cold and venal.
 He could only seem romantic to a confused underaged runaway.
 TRAVIS
 You name Sport?
-Sport immediately takes Travis for an undercover cop. He
+Sport immediately takes <char who="trav">Travis</char> for an undercover cop. He
 extends his crosses wrists as if to be handcuffed.
 SPORT
 Here, officer, take me in. I'm clean.
@@ -3809,11 +3810,11 @@ He looks at the crowded traffic on Fifth Avenue eighteen
 floors below. It is a mass of yellow.
 CUT TO:
 EXT. FIFTH AVE NOON
-Travis' cab pulls away from the yellow mass and heads
+<char who="trav">Travis'</char> cab pulls away from the yellow mass and heads
 downtown.
 CUT TO:
 EXT. DOWNTONE COFFEE SHOP NOON
-Travis' cab is parked near a neighborhood Bickford's.
+<char who="trav">Travis'</char> cab is parked near a neighborhood Bickford's.
 CUT TO:
 TRAVIS and IRIS are having late breakfast at a middle-class
 EAST SIDE COFFEE SHOP. It is about 1:30 P.M.
@@ -3831,7 +3832,7 @@ large glasses of orange juice, coffee.
 Outside here environment, Iris seems the more pathetic. She
 seems unsure, schizy, unable to hold a subject for more than
 thirty seconds. Her gestures are too broad, her voice too
-mannered. We sympathize with Travis' paternal respect.
+mannered. We sympathize with <char who="trav">Travis'</char> paternal respect.
 This girl is in trouble.
 IRIS
 ... and after that Sport and I just
@@ -4206,7 +4207,7 @@ walks down the corridor.
 102.
 CONTINUED:
 He passes a ajar door and we are suprised to see the room is
-empty--and trashed. Travis lives in a decaying, if not
+empty--and trashed. <char who="trav">Travis</char> lives in a decaying, if not
 condemned building.
 EXT.
 TRAVIS places the envelope to IRIS in his mail box.

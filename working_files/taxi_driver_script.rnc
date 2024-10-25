@@ -1,3 +1,5 @@
+#===Feel free to update the schema as needed===
+
 start = element root {production-cred, script}
 production-cred = element production-cred {mixed {title, writer, comp, copyright, corp, prod}}
 title = element title {"TAXI DRIVER"}
@@ -10,9 +12,10 @@ prod = element prod {"Italo-Judeo Productions, US"}
 person = element person {text}
 # A real person, not a character
 
-script = element script {openQuote, text}
+script = element script {openQuote, intro, scene, text}
 # The actual script
 openQuote = element openQuote {mixed {person}}
+intro = element intro {char, text}
 scene = element scene {num, text}
 num = attribute num {xsd:int}
 #Scene #. Whole numbers only
@@ -20,7 +23,10 @@ speaker = element speaker {v.o.}
 v.o. = attribute v.o. {text}
 # Is someone speaking? and who is it?
 
-character = element character {text}
+char = element char {text, who}
+who = attribute who {text|"trav"|"wiz"|"tom"|"bets"}
+# Update who {text} with abreviations of character names
+# "trav" "tom" "bets" "wiz" etc
 
 par = element par {action?, tone?, desc?, text}
 action = attribute action {text}
