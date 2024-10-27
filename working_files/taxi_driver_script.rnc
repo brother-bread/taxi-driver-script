@@ -44,3 +44,5 @@ tracking = attribute tracking {"true"}
 panning = attribute panning {"true"}
 close-up = attribute close-up {"true"}
 # Insert additional attributes here and in "shotDesc"
+
+narr = element narr {text}
