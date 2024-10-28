@@ -24,7 +24,7 @@ v.o. = attribute v.o. {text}
 # Is someone speaking? and who is it?
 
 char = element char {text, who}
-who = attribute who {text|"trav"|"wiz"|"tom"|"bets"}
+who = attribute who {text|"trav"|"wiz"|"tom"|"bets" | "pal" | "db" | "ez" | "iris" | "sport" | "stickup" | "CT" | "ssman"} 
 # Update who {text} with abreviations of character names
 # "trav" "tom" "bets" "wiz" etc
 
@@ -43,6 +43,9 @@ shotDesc = element shotDesc {tracking?, panning?, close-up?, text}
 tracking = attribute tracking {"true"}
 panning = attribute panning {"true"}
 close-up = attribute close-up {"true"}
+pov = attribute pov {"true"}
 # Insert additional attributes here and in "shotDesc"
 
 narr = element narr {text}
+typo = element typo {text}
+
