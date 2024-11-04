@@ -55,7 +55,7 @@ READS:
 PERSONAL OFFICE Marvis Cab Company Blue and White Cab Co.
 Acme Taxi Dependable Taxi Services JRB Cab Company Speedo
 Taxi Service
-(CONTINUED)</scene>
+(CONTINUED)
 2.
 CONTINUED:
 SOUND of office busywork: shuffling, typing, arguing.
@@ -176,7 +176,8 @@ Well then check back tomorrow.
 TRAVIS
 Yes, Sir.
 CUT TO:
-CREDITS
+CREDITS</scene>
+<scene num ="2">
 5.
 CREDITS appear over scenes from MANHATTAN NIGHTLIFE. The
 snow has melted, it is spring.
@@ -206,8 +207,8 @@ The listener is at a safe but privileged distance.
 After examining various strata of Manhattan nightlife, CAMERA
 begins to CLOSE IN on one particular taxi, and it is assumed
 that this taxi is being driven by <character>TRAVIS BICKLE</character>.
-END CREDITS
-CUT TO:
+END CREDITS</scene>
+<scene num="3">CUT TO:
 <char who="trav">Travis'</char>s yellow taxi pulls in foreground. On left rear door
 are lettered the words "Dependable Taxi Service".
 We are somewhere on the upper fifties on Fifth Ave. The rain
@@ -344,8 +345,8 @@ fairies, dopers, junkies, sick, venal.
 (a beat)
 Someday a real rain will come and
 wash all this scum off the streets.
-(CONTINUED)
-9.
+(CONTINUED)</scene>
+<scene num="4">9.
 CONTINUED:
 It's EARLY MORNING: 6 a.m. The air is clean and fresh and
 the streets nearly deserted.
@@ -437,8 +438,8 @@ reds and yellows, is an offense to the clear, crisp morning
 air. The permanent lettering reads, "Adam Theatre, 16mm
 Sound Features". Underneath, today's feature are handlettered: "Six-Day Cruise" and "Beaver Dam".
 <char who="trav">Travis</char> stops at the box office, purchases a ticket, and walks
-in.
-INT. PORNO THEATRE
+in.</scene>
+<scene num="5">INT. PORNO THEATRE
 <char who="trav">Travis</char> stands in the aisle for a moment. He turns around,
 walking back toward the concession stand.
 CONCESSION STAND
@@ -481,8 +482,8 @@ That's fine.
 CONCESSION GIRL
 That's a dollar forty-seven.
 <char who="trav">Travis</char> lays two dollar bills on the counter.
-INT. THEATRE AUDITORIUM
-Slight TIMECUT to <char who="trav">Travis</char> sitting in theatre, drinking his
+INT. THEATRE AUDITORIUM</scene>
+<scene num="6">Slight TIMECUT to <char who="trav">Travis</char> sitting in theatre, drinking his
 Royal Crown Cola, eating his popcorn and milk balls. His
 eyes are fixed on the screen. A MALE VOICE emanates from the
 screen:
@@ -493,8 +494,8 @@ Male Voice yields to <char who="trav">Travis'</char> monotone narration.
 TRAVIS (V.O.)
 Twelve hours of work and I still
 cannot sleep. The days dwindle on
-forever and do not end.
-FADE TO:
+forever and do not end.</scene>
+<scene num="7">FADE TO:
 EXT. CHARLES PALANTINE CAMPAIGN HEADQUARTERS
 The Headquarters of the "New Yorkers for Charles Palantine
 for President Committee", located at the corner of 50th Street
@@ -506,8 +507,8 @@ CONTINUED:
 One large sign proclaims "Palantine". Another sign reads
 "Register for New York Primary, July 20.". The smiling middleaged face of Charles Palantine keeps watch over the bustling
 pedestrians.
-It is LATE AFTERNOON.
-INSIDE HEADQUARTERS
+It is LATE AFTERNOON.</scene>
+<scene num="8">INSIDE HEADQUARTERS
 A variety of YOUNG WORKERS joke and chatter as they labor
 through stacks of papers. The room is pierced with the sound
 of ringing phones.
@@ -687,8 +688,8 @@ All my life needed was a sense of
 direction, a sense of someplace to
 go. I do not believe one should
 devote his life to morbid selfattention, but should become a person
-like other people.
-ANOTHER DAY - LATE AFTERNOON
+like other people.</scene>
+<scene num="9">ANOTHER DAY - LATE AFTERNOON
 <char who="trav">Travis'</char> taxi is driving down Broadway with the "Off Duty"
 sign on.
 POV TRACKING SHOT down Broadway. CAMERA stops at Palantine
@@ -715,11 +716,11 @@ TRAVIS (V.O.)
 She appeared like an angel out of
 this open sewer. Out of this filthy
 mass. She is alone: They cannot touch
-her.
-INT. TRAVIS' APARTMENT
+her.</scene>
+<scene num="10">INT. TRAVIS' APARTMENT
 He is at the table, writing in his diary.
-CLOSEUP - His stubby pencil rests on the word "her".
-CUT TO:
+CLOSEUP - His stubby pencil rests on the word "her".</scene>
+<scene num="11">CUT TO:
 It is 3:30 IN THE MORNING in a bacon-shaped all night WEST
 SIDE REATAURANT. The thick smell hangs in the air - fried
 grease, smoke, sweat, regurgitated wine.
@@ -885,8 +886,8 @@ CONTINUED:
 DOUGH-BOY
 Where.
 TRAVIS
-In the jungle. 122nd.
-<char who="trav">Travis'</char> eyes turn toward the restaurant's other patrons.
+In the jungle. 122nd.</scene>
+<scene num="12"><char who="trav">Travis'</char> eyes turn toward the restaurant's other patrons.
 POV: THREE STREET PEOPLE sitting at a table. One GUY, stoned,
 stares straight ahead. A raggedly attractive GIRL rest her
 head on the shoulder of the other, a heavily bearded YOUNG
@@ -972,8 +973,8 @@ Dough-Boy exits. <char who="trav">Travis</char> smiles perfunctorily, then looks
 back at Wizard. They really don't have much to talk about,
 and the Wizard doesn't care to manufacture any more
 conversations.
-<char who="trav">Travis</char> scans the greasy spoon: The scene is unchanged.
-CUT TO:
+<char who="trav">Travis</char> scans the greasy spoon: The scene is unchanged.</scene>
+<scene num="13">CUT TO:
 EXT. PALANTINE HEADQUARTERS - ANOTHER DAY
 Traffic passes.
 INT. PALANTINE HEADQUARTERS
@@ -1074,8 +1075,8 @@ sure how old Black people are -
 but, anyway, he isn't old. That's
 for sure.
 TOM
-Show me how he did that again.
-EXT. ACROSS THE STREET FROM HEADQUARTERS
+Show me how he did that again.</scene>
+<scene>EXT. ACROSS THE STREET FROM HEADQUARTERS
 <char who="trav">Travis</char> is striding briskly across Broadway toward the
 Palantine Headquarters.
 He s dressed the best we have seen him; his pants (not jeans)
@@ -1247,8 +1248,8 @@ Betsy simply shrugs (it's really none of his business) and
 says:
 BETSY
 I'm just going to find out what the
-cabbies are thinking.
-CUT TO:
+cabbies are thinking.</scene>
+<scene>CUT TO:
 <char who="trav">Travis</char> is pacing back and forth on Broadway just beyond the
 Palantine Headquarters. He checks his watch.
 TRAVIS (V.O.)
@@ -1508,8 +1509,8 @@ much.
 BETSY
 (slowly)
 Kris Kristofferson.
-<char who="trav">Travis</char> looks at Betsy intently and they exchange smiles.
-CUT TO:
+<char who="trav">Travis</char> looks at Betsy intently and they exchange smiles.</scene>
+<scene>CUT TO:
 <char who="trav">Travis</char> is walking confusedly around SAM GOODY'S at MIDDAY,
 obviously unable to locate what he desires.
 <char who="trav">Travis</char> is lost among the hip, young intellectual type that
@@ -1583,8 +1584,8 @@ off again with a jolt.
 This is <char who="trav">Travis'</char> world: Dark side streets, garish glaring
 main streets, quick glances, quicker evaluations - a dozen
 instantaneous decisions a minute. Are these people, are these
-objects?
-EXT. TRAVIS' TAXI speed down darkened street.
+objects?</scene>
+<scene>EXT. TRAVIS' TAXI speed down darkened street.
 <char who="trav">Travis</char> lets off a fare and pulls into line at the Plaza.
 TRAVIS (V.O.)
 I called Betsy again at her office,
@@ -1655,7 +1656,7 @@ TOM
 And in some other places too...
 Palantine, his Assistant and Tom all laugh. Palantine, quickly
 reassuming candiorial mien, speaks to Travis:
-(CONTINUED)
+(CONTINUED)</scene>
     </script>
 </root>
 <!--END PART 1-->

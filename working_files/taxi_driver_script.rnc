@@ -12,7 +12,7 @@ prod = element prod {"Italo-Judeo Productions, US"}
 person = element person {text}
 # A real person, not a character
 
-script = element script {openQuote, intro, scene, text}
+script = element script {openQuote, intro, scene+, text}
 # The actual script
 openQuote = element openQuote {mixed {person}}
 intro = element intro {char, text}
