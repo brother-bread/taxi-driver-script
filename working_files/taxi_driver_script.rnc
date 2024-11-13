@@ -12,40 +12,42 @@ prod = element prod {"Italo-Judeo Productions, US"}
 person = element person {text}
 # A real person, not a character
 
+#
+
+# The script. Entire thing.
 script = element script {openQuote, intro, scene+, text}
-# The actual script
+
+# rjk - LOOK HERE, what are we doing with this? I don't remember even seeing this while looking through xml part 2.
 openQuote = element openQuote {mixed {person}}
 intro = element intro {char*, text}
-scene = element scene {mixed{num, loc*, speaker*, char*}}
-num = attribute num {xsd:int}
-#Scene #. Whole numbers only
-speaker = element speaker {v.o., text}
-v.o. = attribute v.o. {text}
-# Is someone speaking? and who is it?
 
+# Scene #. Whole numbers only
+scene = element scene {mixed{num, loc*, d*, char*, desc*}}
+num = attribute num {xsd:int}
+
+# Is someone speaking? and who is it? Wrap this around the entire chunk of dialogue.
+d = element d {mixed{desc | par | v.o.}}
+v.o. = attribute v.o. {text|"trav"}#etc..... update whenever
+
+# Use character attribute when the character is MENTIONED in dialogue or description
+# Side characters are rarely mentioned, use "side"
 char = element char {text, who}
 who = attribute who {text|"trav"|"wiz"|"tom"|"bets" | "pal" | "db" | "ez" | "iris" | "sport" | "stickup" | "CT" | "ssman"} 
-# Update who {text} with abreviations of character names
-# "trav" "tom" "bets" "wiz" etc
 
-par = element par {action?, tone?, desc?, text}
-action = attribute action {text}
-tone = attribute tone {text}
-desc = attribute desc {text}
-
-loc = element loc {(int | ext), text}
-int = attribute int {"true"}
-ext = attribute ext {"true"}
-# Scene location. Inside or outside?
-
-shotDesc = element shotDesc {tracking?, panning?, close-up?, text}
-# tracking, close-up, etc. are attributes. One or none each.
+# rjk - LOOK HERE, idk what is going on here, am I stupid?
+# Used for description of the shot (camera), scene description or action description
+desc element desc {par | shot}
+par attribute par {text}
+shot attribute shot {mixed{tracking | panning | close | pov}}
 tracking = attribute tracking {"true"}
 panning = attribute panning {"true"}
-close-up = attribute close-up {"true"}
-pov = attribute pov {"true"}
-# Insert additional attributes here and in "shotDesc"
+close = attribute close {"true"}
+pov = attribute pov {"true"}\
 
+# rjk - PLEASE LOOK AT THIS, do we change narrator at all to go along with description? I don't know why but it is not making sense in my head
+# Used for narrator speaking
 narr = element narr {text}
+
+# Used for typo (remove if there are no typos, haven't completely looked)
 typo = element typo {text}
 
