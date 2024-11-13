@@ -36,13 +36,13 @@ who = attribute who {text|"trav"|"wiz"|"tom"|"bets" | "pal" | "db" | "ez" | "iri
 
 # rjk - LOOK HERE, idk what is going on here, am I stupid?
 # Used for description of the shot (camera), scene description or action description
-desc element desc {par | shot}
-par attribute par {text}
-shot attribute shot {mixed{tracking | panning | close | pov}}
+desc = element desc {par | shot}
+par = attribute par {text}
+shot = attribute shot {mixed{tracking | panning | close | pov}}
 tracking = attribute tracking {"true"}
 panning = attribute panning {"true"}
 close = attribute close {"true"}
-pov = attribute pov {"true"}\
+pov = attribute pov {"true"}
 
 # rjk - PLEASE LOOK AT THIS, do we change narrator at all to go along with description? I don't know why but it is not making sense in my head
 # Used for narrator speaking

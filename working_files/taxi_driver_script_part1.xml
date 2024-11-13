@@ -73,108 +73,108 @@ The PERSONNEL OFFICER is beat and exhausted: he arrives at
 work exhausted. TRAVIS is something else again. His intense
 steely gaze is enough to jar even the PERSONNEL OFFICER out
 of his workaday boredom.
-<speaker v.o.="Speaking, Officer">PERSONNEL OFFICER (O.S.)
-No trouble with the Hack Bureau?</speaker>
-<speaker v.o.="Speaking, Travis">TRAVIS (O.S.)
-No Sir.</speaker>
-<speaker v.o.="Speaking, Officer">PERSONNEL OFFICER (O.S.)
-Got your license?</speaker>
-<speaker v.o.="Speaking, Travis">TRAVIS (O.S.)
-Yes.</speaker>
-<speaker v.o.="Speaking, Officer">PERSONNEL OFFICER
+<d v.o.="officer">PERSONNEL OFFICER (O.S.)
+No trouble with the Hack Bureau?</d>
+<d v.o.="trav">TRAVIS (O.S.)
+No Sir.</d>
+<d v.o.="officer">PERSONNEL OFFICER (O.S.)
+Got your license?</d>
+<d v.o.="trav">TRAVIS (O.S.)
+Yes.</d>
+<d v.o.="officer">PERSONNEL OFFICER
 So why do you want to be a taxi
-driver?</speaker>
-<speaker v.o.="Speaking, Travis">TRAVIS
-I can't sleep nights.</speaker>
-<speaker v.o.="Speaking, Officer">PERSONNEL OFFICER
-There's porno theatres for that.</speaker>
-<speaker v.o.="Speaking, Travis">TRAVIS
-I know. I tried that.</speaker>
-<speaker>The PERSONNEL OFFICER, though officious, is mildly probing
+driver?</d>
+<d v.o.="trav">TRAVIS
+I can't sleep nights.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+There's porno theatres for that.</d>
+<d v.o.="trav">TRAVIS
+I know. I tried that.</d>
+<d v.o.="officer">The PERSONNEL OFFICER, though officious, is mildly probing
 and curious. TRAVIS is a cipher, cold and distant. He speaks
-as if his mind doesn't know what his mouth is saying.</speaker>
-<speaker v.o.="Speaking, Officer">PERSONNEL OFFICER
-So whatja do now?</speaker>
+as if his mind doesn't know what his mouth is saying.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+So whatja do now?</d>
 (CONTINUED)
 3.
 CONTINUED:
-TRAVIS
+<d v.o.="trav">TRAVIS
 I ride around nights mostly.
 Subways, buses. See things. Figur'd I might as well get paid
-for it.
-PERSONNEL OFFICER
+for it.</d>
+<d v.o.="officer">PERSONNEL OFFICER
 We don't need any misfits around
-here, son.
-A thin smile cracks almost indiscernibly across TRAVIS' lips.
-TRAVIS
+here, son</d>.
+A thin smile cracks almost indiscernibly across <char who="trav">TRAVIS</char>' lips.
+<d v.o.="trav">TRAVIS
 You kiddin? Who else would hack
 through South Bronx or Harlem at
-night?
-PERSONNEL OFFICER
-You want to work uptown nights?
-TRAVIS
+night?</d>
+<d v.o.="officer">PERSONNEL OFFICER
+You want to work uptown nights?</d>
+<d v.o.="trav">TRAVIS
 I'll work anywhere, anytime. I know
-I can't be choosy.
-PERSONNEL OFFICER
+I can't be choosy.</d>
+<d v.o.="officer">PERSONNEL OFFICER
 (thinks a moment)
-How's your driving record?
-TRAVIS
+How's your driving record?</d>
+<d v.o.="trav">TRAVIS
 Clean. Real clean.
-(pause, thin smile)
-As clean as my conscience.
-PERSONNEL OFFICER
+<desc par="smile">(pause, thin smile)</desc>
+As clean as my conscience.</d>
+<d v.o.="officer">PERSONNEL OFFICER
 Listen, son, you gonna get smart,
-you can leave right now.
-TRAVIS
-(apologetic)
-Sorry, sir. I didn't mean that.
-PERSONNEL OFFICER
-Physical? Criminal?
-TRAVIS
-Also clean.
-PERSONNEL OFFICER
-Age?
-PERSONNEL OFFICER
-Twenty-six.
+you can leave right now.</d>
+<d v.o.="trav">TRAVIS
+<desc par="tone">(apologetic)</desc>
+Sorry, sir. I didn't mean that.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+Physical? Criminal?</d>
+<d v.o.="trav">TRAVIS
+Also clean.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+Age?</d>
+<d v.o.="officer">PERSONNEL OFFICER
+Twenty-six.</d>
 (CONTINUED)
 4.
 CONTINUED:
-PERSONNEL OFFICER
-Education?
-TRAVIS
-Some. Here and there.
-PERSONNEL OFFICER
-Military record?
-TRAVIS
-Honorable discharge. May 1971.
-PERSONNEL OFFICER
-You moonlightin?
-TRAVIS
-No, I want long shifts.
-PERSONNEL OFFICER
-(casually, almost to
-himself)
-We hire a lot of moonlighters here.
-TRAVIS
-So I hear.
-PERSONNEL OFFICER
-(looks up at Travis)
+<d v.o.="officer">PERSONNEL OFFICER
+Education?</d>
+<d v.o.="trav">TRAVIS
+Some. Here and there.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+Military record?</d>
+<d v.o.="trav">TRAVIS
+Honorable discharge. May 1971.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+You moonlightin?</d>
+<d v.o.="trav">TRAVIS
+No, I want long shifts.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+<desc>(casually, almost to
+himself)</desc>
+We hire a lot of moonlighters here.</d>
+<d v.o.="trav">TRAVIS
+So I hear.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+<desc par="looking">(looks up at Travis)</desc>
 Hell, we ain't that much fussy anyway.
 There's always opening on one fleet
 or another.
-(rummages through his
+<desc par="action">(rummages through his
 drawer, collecting
 various pink, yellow
-and white forms)
+and white forms)</desc>
 Fill out these forms and give them
 to the girl at the desk, and leave
-your phone number. You gotta phone?
-TRAVIS
-No.
-PERSONNEL OFFICER
-Well then check back tomorrow.
-TRAVIS
-Yes, Sir.
+your phone number. You gotta phone?</d>
+<d v.o.="trav">TRAVIS
+No.</d>
+<d v.o.="officer">PERSONNEL OFFICER
+Well then check back tomorrow.</d>
+<d v.o.="trav">TRAVIS
+Yes, Sir.</d>
 CUT TO:
 CREDITS</scene>
 <scene num ="2">
