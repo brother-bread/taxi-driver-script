@@ -26,13 +26,13 @@ scene = element scene {mixed{num, loc*, d*, char*, desc*}}
 num = attribute num {xsd:int}
 
 # Is someone speaking? and who is it? Wrap this around the entire chunk of dialogue.
-d = element d {mixed{desc | par | v.o.}}
+d = element d {mixed{desc | par | v.o. | who}}
 v.o. = attribute v.o. {text|"trav"}#etc..... update whenever
 
 # Use character attribute when the character is MENTIONED in dialogue or description
 # Side characters are rarely mentioned, use "side"
 char = element char {text, who}
-who = attribute who {text|"trav"|"wiz"|"tom"|"bets" | "pal" | "db" | "ez" | "iris" | "sport" | "stickup" | "CT" | "ssman"} 
+who = attribute who {text|"trav"|"wiz"|"tom"|"bets" | "pal" | "db" | "ez" | "iris" | "sport" | "stickup" | "ct" | "ssman" | "side" | "melio"} 
 
 # rjk - LOOK HERE, idk what is going on here, am I stupid?
 # Used for description of the shot (camera), scene description or action description
