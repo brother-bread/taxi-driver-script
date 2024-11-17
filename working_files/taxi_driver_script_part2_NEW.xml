@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="taxi_driver_script.rnc" type="application/relax-ng-compact-syntax"?>
 <!--START PART 2-->
-<!--Part 2 Markup by E. Larson--><root>    
+<!--Part 2 Markup by E. Larson-->
+<root>    
     <script>
 
 40.
@@ -66,8 +67,8 @@ watches <char who="trav">Travis'</char> departing taxi.</desc>
 </scene>
         
 <scene>
-<loc ext="true">EXT. MANHATTAN STREET</loc> - EARLY MORNING
-<narr><char who="trav">TRAVIS</char>, dressed to the teeth, walks brightly down the
+<narr><loc ext="true">EXT. MANHATTAN STREET</loc> - EARLY MORNING
+<char who="trav">TRAVIS</char>, dressed to the teeth, walks brightly down the
 sidewalk. His face is frehsly shaved, his hair combed, his
 tie straightened.
 He pauses in a store window to check his appearance.
@@ -132,11 +133,10 @@ blocked out with black tape.
 <char who="trav">Travis</char> steps over to the window and buys two $5 tickets.
 <char who="bets">Betsy</char>, befuddled, watches him. She doesn't know what to say.
 <char who="trav">Travis</char> returns with the tickets.
-<char who="bets">Betsy</char> still has not fully comprehended what is happening:
+<char who="bets">Betsy</char> still has not fully comprehended what is happening:</narr>
 (CONTINUED)
 43.
 CONTINUED:
-</narr>
 <d who="bets">BETSY
 What are you doing?</d>
 <d who="trav">TRAVIS
@@ -176,10 +176,10 @@ without warning, there is a direct CUT to a couple copulating
 on a sterile table-like bed.
 <char who="trav">Travis</char> watches intently. The color, however, is slowly
 draining from <char who="bets">Betsy's</char> cheeks. One thought fills her mind:
-"What am I doing here?"
+"What am I doing here?"</narr>
 (CONTINUED)
 44.
-CONTINUED:</narr>
+CONTINUED:
 <d who="trav">TRAVIS
 <desc par="to himself">(to himself)</desc>
 Damn.</d>
@@ -299,7 +299,7 @@ looks back at the woman in the porno theatre box office who
 has also been following the argument.</narr>
 </scene>
         
-        <scene>
+<scene>
 <narr>CUT TO:
 <loc int="true">INSIDE TRAVIS' APARTMENT</loc>
 <char who="trav">Travis</char> is sitting at the table. There are some new items on
@@ -317,6 +317,7 @@ regularity...</d>
 The pencil rests on the open notebook.
 </narr>
         </scene>
+            
         <scene>
 <narr>LATER THAT DAY: <char who="trav">TRAVIS</char> has pulled his straight-backed chair
 around and is watching his small portable TV, which rests on
@@ -335,11 +336,11 @@ then suddenly - there is a change.</d>
 <narr><char who="bets">Betsy</char> is walking down a midtown street when <char who="trav">Travis</char> suddenly
 appears before her. He has been waiting.
 <char who="trav">Travis</char> tries to make conversation but she doesn't listen.
-She motions for him to go away and keeps on walking.
+She motions for him to go away and keeps on walking.</narr>
 (CONTINUED)
 48.
 CONTINUED:
-<char who="trav">Travis</char>, protesting, follows.
+<narr><char who="trav">Travis</char>, protesting, follows.
 CUT TO:
 <loc int="true">INT. BUILDING</loc> - DAY
 <char who="trav">Travis</char> speaks intensely into a wall pay phone.</narr>
@@ -395,13 +396,13 @@ wrenching his arm behind his back.
         </scene>
         
         <scene>
-CUT TO:
+<narr>CUT TO:
 EXT.
-<narr><char who="trav">Travis</char> is again making his way through the garish urban night.
+<char who="trav">Travis</char> is again making his way through the garish urban night.
 He stops for a <char who="side">PASSENGER</char> on <loc>PARK AVE.</loc> A middle-aging
 professorial executive.
 <desc shot="close">C.U. TRAVIS</desc>: His face is expressionless. The MAN makes
-himself comfortable in the back seat.</narr>
+himself comfortable in the back seat.
 <d who="side">PROFESSIONAL PASSENGER
 Jackson Heights.</d>
 <narr><char who="trav">Travis</char> has no intention of driving out to Jackson Heights
@@ -781,8 +782,7 @@ Total organization is necessary.
 Every muscle must be tight.</d>
         </scene>
         
-        <scene>
-            
+        <scene>       
 <narr><loc int="true">INT. FIRING RANGE</loc>
 The CRACKING SOUND of rapid-fire pistol shots fills the musty
 air of the firing range. The walls are heavily soundproofed,
@@ -1113,8 +1113,8 @@ my witness.</d>
 The hell I can't. It's no sweat for
 you. What is this for you, number
 five?</d>
-<narr><char who="melio">'MELIO</char> smiles and holds up four fingers:
-(CONTINUED)</narr>
+<narr><char who="melio">'MELIO</char> smiles and holds up four fingers:</narr>
+(CONTINUED)
 66.
 CONTINUED:
 <d who="melio">'MELIO
@@ -1471,8 +1471,7 @@ CONTINUED:
 inhabitants.</narr>
         </scene>
         
-        <scene>
-            
+        <scene>       
 <narr>CUT TO:
 FADE IN:
 <loc ext="true">EXT. CHARLES PALANTINE RALLY</loc> - DAY
