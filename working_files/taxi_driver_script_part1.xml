@@ -21,7 +21,7 @@ that loneliness, far from being a rare and curious phenomenon,
 is the central and inevitable fact of human existence."
 <person>THOMAS WOLFE</person>,
     "God's Lonely Man"</openQuote>
-<intro><char who="trav">TRAVIS BICKLE</char>, age 26, lean, hard, the consummate loner. On
+<intro><narr><char who="trav">TRAVIS BICKLE</char>, age 26, lean, hard, the consummate loner. On
 the surface he appears good-looking, even handsome; he has a
 quiet steady look and a disarming smile which flashes from
 nowhere, lighting up his whole face. But behind that smile,
@@ -42,15 +42,15 @@ lonely sex, but sex nonetheless. He is a raw male force,
 driving forward; toward what, one cannot tell. Then one looks
 closer and sees the evitable. The clock sprig cannot be wound
 continually tighter. As the earth moves toward the sun, Travis
-Bickle moves toward violence.</intro>
-<scene num="1">FILM OPENS on <loc ext="true">EXT. of MANHATTAN CAB GARAGE</loc>. Weather-beaten
+Bickle moves toward violence.</narr></intro>
+<scene num="1"><narr>FILM OPENS on EXT. of MANHATTAN CAB GARAGE. Weather-beaten
 sign above driveway reads, "Taxi Enter Here". Yellow cabs
 scuttle in and out. It is WINTER, snow is piled on the
 curbs, the wind is howling.
 INSIDE GARAGE are parked row upon row of multi-colored taxis.
 Echoing SOUNDS of cabs idling, cabbies talking. Steamy breath
 and exhaust fill the air.
-<loc int="true">INT. CORRIDOR of cab company offices</loc>. Lettering on ajar door
+INT. CORRIDOR of cab company offices. Lettering on ajar door
 READS:
 PERSONAL OFFICE Marvis Cab Company Blue and White Cab Co.
 Acme Taxi Dependable Taxi Services JRB Cab Company Speedo
@@ -59,7 +59,7 @@ Taxi Service
 2.
 CONTINUED:
 SOUND of office busywork: shuffling, typing, arguing.
-<loc int="true">PERSONAL OFFICE</loc> is a cluttered disarray. Sheets with heading
+PERSONAL OFFICE is a cluttered disarray. Sheets with heading
 "Marvis, B &amp; W, Acme" and so forth are tacked to crumbling
 plaster wall: It is March. Desk is cluttered with forms,
 reports and an old upright Royal typewriter.
@@ -72,114 +72,114 @@ and Army jacket. He takes a drag off his unfiltered cigarette.
 The PERSONNEL OFFICER is beat and exhausted: he arrives at
 work exhausted. TRAVIS is something else again. His intense
 steely gaze is enough to jar even the PERSONNEL OFFICER out
-of his workaday boredom.
-<d v.o.="officer">PERSONNEL OFFICER (O.S.)
+of his workaday boredom.</narr>
+<d who="side">PERSONNEL OFFICER (O.S.)
 No trouble with the Hack Bureau?</d>
-<d v.o.="trav">TRAVIS (O.S.)
+<d who="trav">TRAVIS (O.S.)
 No Sir.</d>
-<d v.o.="officer">PERSONNEL OFFICER (O.S.)
+<d who="side">PERSONNEL OFFICER (O.S.)
 Got your license?</d>
-<d v.o.="trav">TRAVIS (O.S.)
+<d who="trav">TRAVIS (O.S.)
 Yes.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 So why do you want to be a taxi
 driver?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 I can't sleep nights.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 There's porno theatres for that.</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 I know. I tried that.</d>
-<d v.o.="officer">The PERSONNEL OFFICER, though officious, is mildly probing
+<narr>The PERSONNEL OFFICER, though officious, is mildly probing
 and curious. TRAVIS is a cipher, cold and distant. He speaks
-as if his mind doesn't know what his mouth is saying.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+as if his mind doesn't know what his mouth is saying.</narr>
+<d who="side">PERSONNEL OFFICER
 So whatja do now?</d>
 (CONTINUED)
 3.
 CONTINUED:
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 I ride around nights mostly.
 Subways, buses. See things. Figur'd I might as well get paid
 for it.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 We don't need any misfits around
 here, son</d>.
 A thin smile cracks almost indiscernibly across <char who="trav">TRAVIS</char>' lips.
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 You kiddin? Who else would hack
 through South Bronx or Harlem at
 night?</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 You want to work uptown nights?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 I'll work anywhere, anytime. I know
 I can't be choosy.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 (thinks a moment)
 How's your driving record?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 Clean. Real clean.
-<desc par="smile">(pause, thin smile)</desc>
+<desc par="pause, thin smile">(pause, thin smile)</desc>
 As clean as my conscience.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Listen, son, you gonna get smart,
 you can leave right now.</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 <desc par="tone">(apologetic)</desc>
 Sorry, sir. I didn't mean that.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Physical? Criminal?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 Also clean.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Age?</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Twenty-six.</d>
 (CONTINUED)
 4.
 CONTINUED:
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Education?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 Some. Here and there.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Military record?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 Honorable discharge. May 1971.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 You moonlightin?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 No, I want long shifts.</d>
-<d v.o.="officer">PERSONNEL OFFICER
-<desc>(casually, almost to
+<d who="side">PERSONNEL OFFICER
+<desc par="talking">(casually, almost to
 himself)</desc>
 We hire a lot of moonlighters here.</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 So I hear.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 <desc par="looking">(looks up at Travis)</desc>
 Hell, we ain't that much fussy anyway.
 There's always opening on one fleet
 or another.
-<desc par="action">(rummages through his
+<desc par="rummages through his drawer, collecting various pink, yellow and white forms">(rummages through his
 drawer, collecting
 various pink, yellow
 and white forms)</desc>
 Fill out these forms and give them
 to the girl at the desk, and leave
 your phone number. You gotta phone?</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 No.</d>
-<d v.o.="officer">PERSONNEL OFFICER
+<d who="side">PERSONNEL OFFICER
 Well then check back tomorrow.</d>
-<d v.o.="trav">TRAVIS
+<d who="trav">TRAVIS
 Yes, Sir.</d>
 CUT TO:
 CREDITS</scene>
 <scene num ="2">
 5.
-CREDITS appear over scenes from MANHATTAN NIGHTLIFE. The
+<narr>CREDITS appear over scenes from MANHATTAN NIGHTLIFE. The
 snow has melted, it is spring.
 A rainy, slick, wet miserable night in Manhattan's theatre
 district.
@@ -206,9 +206,9 @@ coming from a distant room or storefront around the corner.
 The listener is at a safe but privileged distance.
 After examining various strata of Manhattan nightlife, CAMERA
 begins to CLOSE IN on one particular taxi, and it is assumed
-that this taxi is being driven by <char>TRAVIS BICKLE</char>.
+that this taxi is being driven by <char>TRAVIS BICKLE</char>.</narr>
 END CREDITS</scene>
-<scene num="3">CUT TO:
+<scene num="3"><narr>CUT TO:
 <char who="trav">Travis'</char>s yellow taxi pulls in foreground. On left rear door
 are lettered the words "Dependable Taxi Service".
 We are somewhere on the upper fifties on Fifth Ave. The rain
@@ -221,110 +221,110 @@ curb with a start.
 CONTINUED:
 Later, we see <char who="trav">Travis'</char> taxi speeding down the rain-slicked
 avenue. The action is periodically accompanied by Travis'
-narration. He is reading from a haphazard personal diary.
-TRAVIS (V.O.)
+narration. He is reading from a haphazard personal diary.</narr>
+<d who="trav">TRAVIS (V.O.)
 (monotone)
 April 10, 1972. Thank God for the
 rain which has helped wash the garbage
-and trash off the sidewalks.
+and trash off the sidewalks.</d>
 TRAVIS' POV of sleazy Midtown side street: Bums, Hookers,
 Junkies.
-TRAVIS (V.O.)
+<d who="trav">TRAVIS (V.O.)
 I'm working a single now, which means
 stretch-shifts, six to six, sometimes
 six to eight in the a.m., six days a
-week.
+week.</d>
 A MAN IN BUSINESS SUIT hails <char who="trav">Travis</char> to the curb.
-TRAVIS (V.O.)
+<d who="trav">TRAVIS (V.O.)
 It's a hustle, but it keeps me busy.
-I can take in three to three-fifty a week, more with skims.
-MAN IN BUSINESS SUIT, now seated in back seat, speaks up:
-MAN IN BUSINESS SUIT
-(urgent)
+I can take in three to three-fifty a week, more with skims.</d>
+<narr>MAN IN BUSINESS SUIT, now seated in back seat, speaks up:</narr>
+<d who="man">MAN IN BUSINESS SUIT
+<desc par="tone">(urgent)</desc>
 Is Kennedy operating, cabbie? Is it
-grounded?
-On seat next to TRAVIS is half-eaten cheeseburger and order
+grounded?</d>
+<narr>On seat next to TRAVIS is half-eaten cheeseburger and order
 of french fries. He puts his cigarette down and gulps as he
-answers:
-TRAVIS
-Why should it be grounded?
-MAN IN BUSINESS SUIT
+answers:</narr>
+<d who="trav">TRAVIS
+Why should it be grounded?</d>
+<d who="man">MAN IN BUSINESS SUIT
 Listen - I mean I just saw the needle
 of the Empire State Building.
-You can't see it for the fog!
-TRAVIS
-Then it's a good guess it's grounded.
-MAN IN BUSINESS SUIT
+You can't see it for the fog!</d>
+<d who="trav">TRAVIS
+Then it's a good guess it's grounded.</d>
+<d who="man">MAN IN BUSINESS SUIT
 The Empire State in fog means
 something, don't it? Do you know,
 or don't you? What is your number,
-cabbie?
+cabbie?</d>
 (CONTINUED)
 7.
 CONTINUED:
-TRAVIS
-Have you tried the telephone?
-MAN IN BUSINESS SUIT
-(hostile, impatient)
+<d who="trav">TRAVIS
+Have you tried the telephone?</d>
+<d who="man">MAN IN BUSINESS SUIT
+<desc par="tone">(hostile, impatient)</desc>
 There isn't time for that. In other
-words, you don't know.
-TRAVIS
-No.
-MAN IN BUSINESS SUIT
+words, you don't know.</d>
+<d who="trav">TRAVIS
+No.</d>
+<d who="man">MAN IN BUSINESS SUIT
 Well, you should know, damn it, or
 who else would know? Pull over right
 here.
-(points out window)
+<desc par="point">(points out window)</desc>
 Why don't you stick your goddamn
 head out of the goddamn window once
 in a while and find out about the
-goddamn fog!
-TRAVIS pulls to the curb. The BUSINESS MAN stuffs a dollar
+goddamn fog!</d>
+<narr><who="trav">TRAVIS</who> pulls to the curb. The BUSINESS MAN stuffs a dollar
 bill into the pay drawer and jumps out of the cab. He turns
-to hail another taxi.
-MAN IN BUSINESS SUIT
-Taxi! Taxi!
-<char who="trav">Travis</char> writes up his trip card and drives away.
+to hail another taxi.</narr>
+<d who="man">MAN IN BUSINESS SUIT
+Taxi! Taxi!</d>
+<narr><char who="trav">Travis</char> writes up his trip card and drives away.
 It is LATER THAT NIGHT. The rain has turned to drizzle.
-<char who="trav">Travis</char> drives trough another section of Manhattan.
-TRAVIS (V.O.)
+<char who="trav">Travis</char> drives trough another section of Manhattan.</narr>
+<d who="trav">TRAVIS (V.O.)
 I work the whole city, up, down,
 don't make no difference to me -
-does to some.
-STREETSIDE: TRAVIS' P.O.V. Black PROSTITUTE wearing white
+does to some.</d>
+<narr>STREETSIDE: TRAVIS' P.O.V. Black PROSTITUTE wearing white
 vinyl boots, leopard-skin mini-skirt and blond wig hails
 taxi. On her arm hangs half-drunk seedy EXECUTIVE TYPE.
 TRAVIS pulls over.
-PROSTITUTE and JOHN climb into back seat. TRAVIS checks out
-the action in rear view mirror.
-TRAVIS (V.O.)
+PROSTITUTE and <char who="john">JOHN</char> climb into back seat. TRAVIS checks out
+the action in rear view mirror.</narr>
+<d who="trav">TRAVIS (V.O.)
 Some won't take spooks - Hell, don't
-make no difference tom me.
-TRAVIS' taxi drives through Central Park.
+make no difference tom me.</d>
+<narr>TRAVIS' taxi drives through Central Park.</narr>
 (CONTINUED)
 8.
 CONTINUED:
-GRUNTS, GROANS coming from back seat. HOOKER and JOHN going
+<narr>GRUNTS, GROANS coming from back seat. HOOKER and JOHN going
 at it in back seat. He's having a hard time and she's probably
-trying to get him to come off manually.
-JOHN (O.S.)
-Oh baby, baby.
-PROSTITUTE (O.S.)
-(forceful)
-Come on.
-TRAVIS stares blankly ahead.
+trying to get him to come off manually.</narr>
+<d who="john">JOHN (O.S.)
+Oh baby, baby.</d>
+<d who="pros">PROSTITUTE (O.S.)
+<desc par="tone">(forceful)</desc>
+Come on.</d>
+<narr>TRAVIS stares blankly ahead.</narr>
 CUT TO:
-TRAVIS' APARTMENT. CAMERA PANS SILENTLY across INT. room,
+<narr>TRAVIS' APARTMENT. CAMERA PANS SILENTLY across INT. room,
 indicating this is not a new scene.
 TRAVIS is sitting at plain table writing. He wears shirt,
 jeans, boots. An unfiltered cigarette rests in a bent coffee
-can ash tray.
-CLOSE UP of notebook. It is a plain lined dimestore notebook
+can ash tray.</narr>
+<narr>CLOSE UP of notebook. It is a plain lined dimestore notebook
 and the words TRAVIS is writing with a stubby pencil are
 those he is saying. The columns are straight, disciplined.
 Some of the writing is in pencil, some in ink. The handwriting
-is jagged.
-CAMERA continues to PAN, examining TRAVIS' apartment. It is
+is jagged.</narr>
+<narr>CAMERA continues to PAN, examining TRAVIS' apartment. It is
 unusual, to say the least:
 A ratty old mattress is thrown against one wall. The floor
 is littered with old newspapers, worn and unfolded streets
@@ -336,36 +336,36 @@ chair and table. A beat-up portable TV rests on an upright
 melon crate. The red silk mass in another corner looks like
 a Vietnamese flag. Indecipherable words, figures, numbers
 are scribbled on the plain plaster walls. Ragged black wires
-dangle from the wall where the telephone once hung.
-TRAVIS (V.O.)
+dangle from the wall where the telephone once hung.</narr>
+<d who="trav">TRAVIS (V.O.)
 They're all animals anyway. All the
 animals come out at night: Whores,
 skunk pussies, buggers, queens,
 fairies, dopers, junkies, sick, venal.
-(a beat)
+<desc par="beat">(a beat)</desc>
 Someday a real rain will come and
-wash all this scum off the streets.
+wash all this scum off the streets.</d>
 (CONTINUED)</scene>
 <scene num="4">9.
 CONTINUED:
-It's EARLY MORNING: 6 a.m. The air is clean and fresh and
+<narr>It's EARLY MORNING: 6 a.m. The air is clean and fresh and
 the streets nearly deserted.
-EXT. of TAXI GARAGE. TRAVIS' taxi pulls into the driveway.
-TRAVIS (V.O.)
+EXT. of TAXI GARAGE. <char who="trav">TRAVIS</char>' taxi pulls into the driveway.</narr>
+<d who="trav">TRAVIS (V.O.)
 Each night when I return the cab to
 the garage I have to clean the come
 off the back seat. Some nights I
-clean off the blood.
-INT. of TAXI GARAGE. TRAVIS pulls his taxi into garage
-stall. TRAVIS reaches across the cab and extracts a small
+clean off the blood.</d>
+<narr>INT. of TAXI GARAGE. TRAVIS pulls his taxi into garage
+stall. <char who="trav">TRAVIS</char> reaches across the cab and extracts a small
 vial of bennies from the glove compartment.
 TRAVIS stands next to the cab, straightens his back, and
 tucks the bottle of pills into his jacket pocket. He lowers
 his head, looks into back seat, opens rear door and bends
 inside.
 He shakes a cigarette out of his pack of camels and lights
-it.
-SLIGHT TIMECUT: TRAVIS books it at garage office. Old, rotting
+it.</narr>
+<narr>SLIGHT TIMECUT: <char who="trav">TRAVIS</char> books it at garage office. Old, rotting
 slabs of wood are screwed to a grey crumbling
 concrete wall. Each available space is covered with handlettered signs, time schedules, check-out sheets, memos. The
 signs read:
@@ -392,42 +392,42 @@ AT
 A half dozen haggard cabbies hang around the office. Their
 shirts are wrinkle, their heads dropping, the mouths
 incessantly chattering. We pick up snatches of cabbie small
-talk:
-1ST CABBIE
+talk:</narr>
+<d who="cab1">1ST CABBIE
 ... hadda piss like a bull steer, so
 I pull over on 10th Ave, yank up the
 hood and do the engine job.
-(gestures as if taking
-a piss into the hood)
+<desc par="gesture">(gestures as if taking
+a piss into the hood)</desc>
 There I am with my dong in my hand
 when a guy come up and asks if I
 need any help. Just checking the
 battery, I says, and, meanwhile...
-(takes imaginary piss)
-2ND CABBIE
+<desc par="gesture">(takes imaginary piss)</desc></d>
+<d who="cab2">2ND CABBIE
 If he thinks I'm going up into The
 Jungle this time of night, he can
-shove it.
-3RD CABBIE
-(talking into pay
-phone)
+shove it.</d>
+<d who="cab3">3RD CABBIE
+<desc par="talking">(talking into pay
+phone)</desc>
 Fuck that Violets First. Fucking
 saddle horse. No, no, the OTB. Fuck
 them. No, it was TKR. TCR and I'da
 made seven fucking grand. Fuck them
 too. Alright, what about the second
-race?
-4TH CABBIE
+race?</d>
+<d who="cab4">4TH CABBIE
 Over at Love, this hooker took on
 the whole garage. Blew the whole
 fucking joint and they wouldn't even
-let her use the drinking fountain.
-<char who="trav">Travis</char> hands his trip sheet to a CAB OFFICIAL, nods slightly,
-turns and walks toward the door.
+let her use the drinking fountain.</d>
+<narr><char who="trav">Travis</char> hands his trip sheet to a CAB OFFICIAL, nods slightly,
+turns and walks toward the door.</narr>
 (CONTINUED)
 11.
 CONTINUED:
-OUTSIDE, TRAVIS walks pleasantly down Broadway, his hands in
+<narr>OUTSIDE, TRAVIS walks pleasantly down Broadway, his hands in
 his jacket pockets. The sidewalks are deserted, except for
 diligent fruit and vegetable VENDORS setting up their stalls.
 He takes a deep breath of fresh air, pulls a white pill from
@@ -438,65 +438,65 @@ reds and yellows, is an offense to the clear, crisp morning
 air. The permanent lettering reads, "Adam Theatre, 16mm
 Sound Features". Underneath, today's feature are handlettered: "Six-Day Cruise" and "Beaver Dam".
 <char who="trav">Travis</char> stops at the box office, purchases a ticket, and walks
-in.</scene>
-<scene num="5">INT. PORNO THEATRE
+in.</narr></scene>
+<scene num="5"><narr>INT. PORNO THEATRE
 <char who="trav">Travis</char> stands in the aisle for a moment. He turns around,
-walking back toward the concession stand.
+walking back toward the concession stand.</narr>
 CONCESSION STAND
-A plain dumpy-looking GIRL sits listlessly on a stool behind
+<narr>A plain dumpy-looking GIRL sits listlessly on a stool behind
 the shabby concession stand. A plaster-of-Paris Venus de
 Milo sits atop a piece of purple velvet cloth on the counter.
-The SOUND of the feature drones in the background.
-CONCESSION GIRL
-Kin I help ya?
-<char who="trav">Travis</char> rests his elbow on the counter, looking at the Girl.
+The SOUND of the feature drones in the background.</narr>
+<d who ="girl">CONCESSION GIRL
+Kin I help ya?</d>
+<narr><char who="trav">Travis</char> rests his elbow on the counter, looking at the Girl.
 He is obviously trying to be friendly - no easy task for
 him.
-God knows he needs a friend.
-TRAVIS
-What is your name? My name is Travis.
-CONCESSION GIRL
-Awh, come off it, Pal.
-TRAVIS
-No, I'm serious, really...
+God knows he needs a friend.</narr>
+<d who="trav">TRAVIS
+What is your name? My name is Travis.</d>
+<d who ="girl">CONCESSION GIRL
+Awh, come off it, Pal.</d>
+<d who="trav">TRAVIS
+No, I'm serious, really..</d>.
 (CONTINUED)
 12.
 CONTINUED:
-CONCESSION GIRL
+<d who="girl">CONCESSION GIRL
 Ya want me to call da boss? Huh?
-That what you want?
-CONCESSION GIRL
+That what you want?</d>
+<d who="girl">CONCESSION GIRL
 No, no, it's alright. I'll have a
 big Coca-Cola - without ice - and a
 large buttered popcorn, and...
-(pointing)
+<desc par="pointing">(pointing)</desc>
 ... some of them chocolate covered
 malted milk balls... and ju-jukes, a
-box. They last.
-CONCESSION GIRL
+box. They last.</d>
+<d who="girl">CONCESSION GIRL
 We don't have ju-jukes. We don't
 have Coca-Cola. We only got Royal
-Crown Cola.
-TRAVIS
-That's fine.
-CONCESSION GIRL
-That's a dollar forty-seven.
-<char who="trav">Travis</char> lays two dollar bills on the counter.
-INT. THEATRE AUDITORIUM</scene>
-<scene num="6">Slight TIMECUT to <char who="trav">Travis</char> sitting in theatre, drinking his
+Crown Cola.</d>
+<d who="trav">TRAVIS
+That's fine.</d>
+<d who="girl">CONCESSION GIRL
+That's a dollar forty-seven.</d>
+<narr><char who="trav">Travis</char> lays two dollar bills on the counter.</scene></narr>
+<scene num="6">INT. THEATRE AUDITORIUM
+<narr>Slight TIMECUT to <char who="trav">Travis</char> sitting in theatre, drinking his
 Royal Crown Cola, eating his popcorn and milk balls. His
 eyes are fixed on the screen. A MALE VOICE emanates from the
-screen:
-MALE MOVIE VOICE (O.S.)
+screen:</narr>
+<d who="movm">MALE MOVIE VOICE (O.S.)
 Come here, bitch. I'm gonna split
-you in half.
-Male Voice yields to <char who="trav">Travis'</char> monotone narration.
-TRAVIS (V.O.)
+you in half.</d>
+<narr>Male Voice yields to <char who="trav">Travis'</char> monotone narration.</narr>
+<d who="trav">TRAVIS (V.O.)
 Twelve hours of work and I still
 cannot sleep. The days dwindle on
-forever and do not end.</scene>
+forever and do not end.</d>
 <scene num="7">FADE TO:
-EXT. CHARLES PALANTINE CAMPAIGN HEADQUARTERS
+<narr>EXT. CHARLES PALANTINE CAMPAIGN HEADQUARTERS
 The Headquarters of the "New Yorkers for Charles Palantine
 for President Committee", located at the corner of 50th Street
 and Broadway, are festooned in traditional red, white and
@@ -507,15 +507,15 @@ CONTINUED:
 One large sign proclaims "Palantine". Another sign reads
 "Register for New York Primary, July 20.". The smiling middleaged face of Charles Palantine keeps watch over the bustling
 pedestrians.
-It is LATE AFTERNOON.</scene>
-<scene num="8">INSIDE HEADQUARTERS
+It is LATE AFTERNOON.</narr></scene>
+<scene num="8"><narr>INSIDE HEADQUARTERS
 A variety of YOUNG WORKERS joke and chatter as they labor
 through stacks of papers. The room is pierced with the sound
 of ringing phones.
 Seen from a distance - the only way <char who="trav">Travis</char> can see them -
 those are America's chosen youth: Healthy, energetic, wellgroomed, attractive, all recruited from the bucolic fields
 of Massachusetts and Connecticut.
-CAMERA FAVORS BETSY, about 25, an extremely attractive woman
+CAMERA FAVORS <char who="bets">BETSY</char>, about 25, an extremely attractive woman
 sitting at the reception desk between two phones and several
 stacks of papers. Her attractions, however, are more than
 skin deep. Beneath that Cover Girl facial there is a keen,
@@ -524,18 +524,18 @@ man who passes her desk as her mind computes his desirability:
 Political, intellectual, sexual, emotional, material. Simple
 pose and status do not impress her; she seeks out the
 extraordinary qualities in men. She is, in other words, starfucker of the highest order.
-Betsy, putting down the phone, calls TOM, a lanky, amiable
-and modishly long-haired campaign workder over to her desk:
-BETSY
-Tom.
-Tom is pleasant and good-looking, but lacks those special
+Betsy, putting down the phone, calls <char who="tom">TOM</char>, a lanky, amiable
+and modishly long-haired campaign workder over to her desk:</narr>
+<d who="bets">BETSY
+Tom.</d>
+<narr>Tom is pleasant and good-looking, but lacks those special
 qualities which interest Betsy. He gets nowhere with Betsy -
 yet he keeps trying.
 Just another of those routine office flirtations which pass
-the hours and free the fantasies.
-BETSY
+the hours and free the fantasies.</narr>
+<d who="bets">BETSY
 Tom, come here a moment.
-(he walks over)
+<desc par="walking">(he walks over)</desc>
 I think this canvas report is about
 ready to go out. Check it out with
 Andy, and if he okays if, have a
@@ -546,65 +546,65 @@ headquarters in every county.
 14.
 CONTINUED:
 BETSY (CONT'D)
-(a beat)
+<desc par="beat">(a beat)</desc>
 And don't forget to add the new photo
-releases.
-TOM
+releases.</d>
+<d who="tom">TOM
 The senator's white paper is almost
-ready, Bets. Should we wait for that?
-BETSY
+ready, Bets. Should we wait for that?</d>
+<d who="bets">BETSY
 Andy usually just sends those to the
 national media. The local press
 doesn't know what to do with a
 position paper until UPI and AP tell
-them anyway.
-TOM
+them anyway.</d>
+<d who="tom">TOM
 I think we should try to get maximum
 coverage for this new mandatory
-welfare program. Push the issues.
-BETSY
-(as if instructing a
-child)
+welfare program. Push the issues.</d>
+<d>BETSY
+<desc par="tone">(as if instructing a
+child)</desc>
 First push the man, then the issue.
 Senator Palantine is first of all a dynamic man, an
-intelligent, interesting, fascinating man.
-TOM
-You forgot "sexy".
-BETSY
-No, I didn't forget "sexy".
-TOM
-Just didn't get around to it, huh?
-BETSY
-Oh, Tom, please.
-TOM
+intelligent, interesting, fascinating man.</d>
+<d who="tom">TOM
+You forgot "sexy".</d>
+<d who="bets">BETSY
+No, I didn't forget "sexy".</d>
+<d who="tom">TOM
+Just didn't get around to it, huh?</d>
+<d who="bets">BETSY
+Oh, Tom, please.</d>
+<d who="tom">TOM
 Well, for Christsakes, you sound
 like you're selling... I don't know
-what... cars... not issues.
-BETSY
+what... cars... not issues.</d>
+<d who="bets">BETSY
 Have you ever wondered why CBS News
-has the highest ratings?
-TOM
-More people watch it.
+has the highest ratings?</d>
+<d who="tom">TOM
+More people watch it.</d>
 (CONTINUED)
 15.
 CONTINUED:
-BETSY
+<d who="bets">BETSY
 Alright, forget it if you're not
-going to be serious,
-TOM
+going to be serious,</d>
+<d who="tom">TOM
 No, c'mon, I'm listening. I was
-just...
-BETSY
-Just what?
-TOM
-Kidding around... you know, fun.
-Betsy looks toward the street, then back at Tom.
-BETSY
+just...</d>
+<d who="bets">BETSY
+Just what?</d>
+<d who="tom">TOM
+Kidding around... you know, fun.</d>
+<narr><char who="bets">Betsy</char> looks toward the street, then back at <char who="tom">Tom</char>.</narr>
+<d who="bets">BETSY
 Maybe if you'd try thinking once in
-a while, you'd get somewhere.
-TOM
-With who?
-BETSY
+a while, you'd get somewhere.</d>
+<d who="tom">TOM
+With who?</d>
+<d who="bets">BETSY
 Alright, now. You want to know why
 CBS has the highest ratings? You
 their news is any different from
@@ -618,78 +618,78 @@ Cronkite. The man. You got it? Not
 the news, not the issues, the man.
 If Walter Cronkite told people to
 eat soap, they'd do it. We are selling
-cars, goddamn it.
-Betsy's attention is being distracted by something she sees
+cars, goddamn it.</d>
+<narr><char who="bets">Betsy's</char> attention is being distracted by something she sees
 across the street. She puts on her glasses and looks out
-across the street again.
-TOM
+across the street again.</narr>
+<d who="tom">TOM
 Well, if Cronkite's so great, why
-don't we run him instead?
-BETSY
+don't we run him instead?</d>
+<d who="bets">BETSY
 That's the last. The finish. Period.
 Some pople can learn. Some people
 can't. And you wonder why we never
-get serious----
+get serious----</d>
 (CONTINUED)
 16.
 CONTINUED:
-TOM
+<d who="tom">TOM
 Sure we could run him. You realize
-he's already of his block association.
-BETSY
-(looks across street
-again)
+he's already of his block association.</d>
+<d who="bets">BETSY
+<desc par="looking">(looks across street
+again)</desc>
 Have you been noticing anything
-strange?
-TOM
-No, why?
-BETSY
+strange?</d>
+<d who="tom">TOM
+No, why?</d>
+<d who="bets">BETSY
 Why's that taxi driver across the
-street been staring at us?
-TOM
-What taxi driver?
-BETSY
+street been staring at us?</d>
+<d who="tom">TOM
+What taxi driver?</d>
+<d who="bets">BETSY
 That taxi driver. The one that's
-been sitting here.
-TOM
-How long has he been there?
-BETSY
+been sitting here.</d>
+<d who="tom">TOM
+How long has he been there?</d>
+<d who="bets">BETSY
 I don't know - but it feels like a
-long time.
-<char who="trav">Travis'</char> cold piercingly eyes Stare out from his cab parked
+long time.</d>
+<narr><char who="trav">Travis'</char> cold piercingly eyes Stare out from his cab parked
 across the street from Palantine Headquarters. He is like a
 lone wolf watching the warm campfires of civilization from a
 distance. A thin red dot glows from his cigarette.
-Tom exchanges <char who="trav">Travis'</char> gaze.
-TOM
-(determined)
-Well, I'll go out and ask him.
-As Tom walks toward front door Betsy's eyes alternate between
-him and the position where <char who="trav">Travis</char> sits.
-EXT. PALANTINE HEADQUARTERS
+<char who="tom">Tom</char> exchanges <char who="trav">Travis'</char> gaze.</narr>
+<d who="tom">TOM
+<desc par="tone">(determined)</desc>
+Well, I'll go out and ask him.</d>
+<narr>As <char who="tom">Tom</char> walks toward front door <char who="bets">Betsy's</char> eyes alternate between
+him and the position where <char who="trav">Travis</char> sits.</narr>
+<narr>EXT. PALANTINE HEADQUARTERS
 Tom strides out the front door and walks briskly across the
 street toward <char who="trav">Travis'</char> taxi.
-<char who="trav">Travis</char> spots Tom walking toward him and quickly stares up
+<char who="trav">Travis</char> spots <char who="tom">Tom</char> walking toward him and quickly stares up
 his cab, then squeals off in a burst of billowing exhaust.
 (CONTINUED)
 17.
 CONTINUED:
-Tom watches the speeding taxi quizzically.
-<char who="trav">Travis'</char> taxi continues down Broadway.
-CUT TO:
+<char who="tom">Tom</char> watches the speeding taxi quizzically.
+<char who="trav">Travis'</char> taxi continues down Broadway.</narr>
+<narr>CUT TO:
 INT. TRAVIS' APARTMENT
 He lies on his mattress at the ceiling. He is fully clothed
 and appears deep in thought.
 Near his mattress rest several medications: A large bottle
 of vitamin pills, two smaller bottles of pills, a bottle of
-peach-flavored brandy.
-TRAVIS (V.O.)
+peach-flavored brandy.</narr>
+<d who="trav">TRAVIS (V.O.)
 All my life needed was a sense of
 direction, a sense of someplace to
 go. I do not believe one should
 devote his life to morbid selfattention, but should become a person
-like other people.</scene>
-<scene num="9">ANOTHER DAY - LATE AFTERNOON
+like other people.</d></scene>
+<scene num="9"><narr>ANOTHER DAY - LATE AFTERNOON
 <char who="trav">Travis'</char> taxi is driving down Broadway with the "Off Duty"
 sign on.
 POV TRACKING SHOT down Broadway. CAMERA stops at Palantine
@@ -698,29 +698,29 @@ Betsy's desk is vacant.
 FIFTH AVENUE - THE SAME AFTERNOON
 CAMERA TRACKS with crowded mass of MANHATTANITES as they
 ooze through the sidewalks toward their various destination.
-Individuals are indiscernible: It is simply a congested mass.
-TRAVIS (V.O.)
+Individuals are indiscernible: It is simply a congested mass.</narr>
+<d who="trav">TRAVIS (V.O.)
 I first saw her at Palantine Campaign
 Headquarters at 58th and Broadway.
 She was wearing a yellow dress,
-answering the phone at her desk.
-Suddenly: Cut of the congested human mass, IN SLOWING MOTION,
-appears the slender figure of BETSY in a stylish yellow dress.
+answering the phone at her desk.</d>
+<narr>Suddenly: Cut of the congested human mass, IN SLOWING MOTION,
+appears the slender figure of <char who="bets">BETSY</char> in a stylish yellow dress.
 The crowd parts like the Red Sea, and there she is: Walking
 all alone, untouched by the crowd, suspended in space and
-time.
+time.</narr>
 (CONTINUED)
 18.
 CONTINUED:
-TRAVIS (V.O.)
+<d who="trav">TRAVIS (V.O.)
 She appeared like an angel out of
 this open sewer. Out of this filthy
 mass. She is alone: They cannot touch
-her.</scene>
-<scene num="10">INT. TRAVIS' APARTMENT
+her.</d></scene>
+<scene num="10"><narr>INT. TRAVIS' APARTMENT
 He is at the table, writing in his diary.
-CLOSEUP - His stubby pencil rests on the word "her".</scene>
-<scene num="11">CUT TO:
+CLOSEUP - His stubby pencil rests on the word "her".</narr></scene>
+<scene num="11"><narr>CUT TO:
 It is 3:30 IN THE MORNING in a bacon-shaped all night WEST
 SIDE REATAURANT. The thick smell hangs in the air - fried
 grease, smoke, sweat, regurgitated wine.
@@ -736,61 +736,61 @@ The restaurant, brightly lit, perfectly conveys the image
 urban plasticity - without the slightest hint of an
 accompanying cleanliness.
 Toward the rear of the restaurant sit three cabbies: WIZARD,
-a worn man about fifty, DOUGH-BOY, younger family man, CHARLIE
-T., fourtyish Black.
-Wizard is telling Dough-Boy a story. Charlie T., his elbows
+a worn man about fifty, <char who="db">DOUGH-BOY</char>, younger family man, <char who="char">CHARLIE
+T.</char>, fourtyish Black.
+<char who="wiz">Wizard</char> is telling <char who="db">Dough-Boy</char> a story. <char who="char">Charlie T.</char>, his elbows
 popped against table top, is not listening. He stares silently
 down at a plate of cold scrambled eggs and a Racing Forum.
-His eyes may not be open.
-WIZARD
+His eyes may not be open.</narr>
+<char who="wiz">WIZARD
 First she did her make-up. You know,
 I hate it when they do that.
 I mean she does the whole works, the
 mascara, the eye-shadow, the lipstick,
-the rouge...
-DOUGH-BOY
+the rouge...</char>
+<char who="db">DOUGH-BOY
 Not rouge. Blush-On, they call it.
 WIZARD
-The kind with a brush.
+The kind with a brush.</char>
 (CONTINUED)
 19.
 CONTINUED:
-<char who="trav">Travis</char> appears at the door. He has to push aside the JUNKIES
+<narr><char who="trav">Travis</char> appears at the door. He has to push aside the JUNKIES
 to enter without making physical contact - something Travis
 would not relish. He may be repulsed with these people and
 this place, but he is too much a part of this to let his
 feelings rise to the surface.
-Wizard gives <char who="trav">Travis</char> a perfunctory wave.
-WIZARD
-Travis.
-TRAVIS
-Hey Wizard.
-<char who="trav">Travis</char> straddles a seat at the table. Dough-Boy gives Travis
-something between a wink and an eye-twitch saying:
-DOUGH-BOY
+<char who="wiz">Wizard</char> gives <char who="trav">Travis</char> a perfunctory wave.</narr>
+<d who="wiz">WIZARD
+<char who="trav">Travis</char>.</d>
+<d who="trav">TRAVIS
+Hey <char who="wiz">Wizard</char>.</d>
+    <narr><char who="trav">Travis</char> straddles a seat at the table. <char who="db">Dough-Boy</char> gives <char who="trav">Travis</char>
+something between a wink and an eye-twitch saying:</narr>
+<d who="db">DOUGH-BOY
 Yeah, that's Blush-On. My wife uses
-it,
-WIZARD
-(ironic)
-Ask Travis. He's the ladies man.
-<char who="trav">Travis</char> shrugs and motions for a cup of coffee.
-WIZARD
+it,</d>
+<d who="wiz">WIZARD
+<desc par="tone">(ironic)</desc>
+Ask <char who="trav">Travis</char>. He's the ladies man.</d>
+<narr><char who="trav">Travis</char> shrugs and motions for a cup of coffee.</narr>
+<d who="wiz">WIZARD
 (continuing)
 Well, whatever the fuck it is, she
 used it. And then the spray perfume.
 You know, the real sweat kind -
 and, on top of that, get this,
 right when we're crossing the Triboro
-bridge - she changes her pantyhose!
-DOUGH-BOY
-No.
-<char who="trav">Travis</char> turns his head. He appears not to be interested, but
-is.
-WIZARD
-Yeah.
-DOUGH-BOY
-Could you see anything?
-WIZARD
+bridge - she changes her pantyhose!</d>
+<d who="db">DOUGH-BOY
+No.</d>
+<narr><char who="trav">Travis</char> turns his head. He appears not to be interested, but
+is.</narr>
+<d who="wiz">WIZARD
+Yeah.</d>
+<d who="db">DOUGH-BOY
+Could you see anything?</d>
+<d who="wiz">WIZARD
 Well, she was trying to keep her
 skirt down, sort of, you know. But
 it was pretty obvious what she was
@@ -801,93 +801,93 @@ CONTINUED:
 WIZARD (CONT'D)
 doing. I mean, Christ, it was rush
 hour and the traffic's practically
-standing still.
-DOUGH-BOY
-What did you do?
-WIZARD
+standing still.</d>
+<d who="db">DOUGH-BOY
+What did you do?</d>
+<d who="wiz">WIZARD
 Threw on the emergency, jumped the
 seat and fucked her brains out -
 What do you think!
-(they laugh)
+<desc par="laughing">(they laugh)</desc>
 What do I have to do? Draw you a
-picture?
-DOUGH-BOY
-Yeah.
-WIZARD
+picture?</d>
+<d who="db">DOUGH-BOY
+Yeah.</d>
+<d who="wiz">WIZARD
 What was I supposed to do? I was
 watching in the rear view. You know,
 just checkin' traffic.
-(to Travis)
-So howsit?
-TRAVIS
-(w/o inflection)
+<desc par="to Travis">(to Travis)</desc>
+So howsit?</d>
+<d who="trav">TRAVIS
+<desc par="tone">(w/o inflection)</desc>
 Some fleet driver for Bell just cut
-up. Just heard it on the radio.
-DOUGH-BOY
-Stick up?
-A WAITRESS brings <char who="trav">Travis'</char> coffee and a glass of water. He
-asks for a cheeseburger.
-WIZARD
+up. Just heard it on the radio.</d>
+<d who="db">DOUGH-BOY
+Stick up?</d>
+<narr>A WAITRESS brings <char who="trav">Travis'</char> coffee and a glass of water. He
+asks for a cheeseburger.</narr>
+<d who="wiz">WIZARD
 Sure. What do you think? She wanted
 to get out of the cab. I said "Look,
 you're in the middle of the fucking
-bridge..."
-DOUGH-BOY
-You said that?
-WIZARD
+bridge..."</d>
+<d who="db">DOUGH-BOY
+You said that?</d>
+<d who="wiz">WIZARD
 Well, I said, "Lady, please, we're
-on a bridge..."
-DOUGH-BOY
-And what happened?
+on a bridge..."</d>
+<d who="db">DOUGH-BOY
+And what happened?</d>
 (CONTINUED)
 21.
 CONTINUED:
-<char who="trav">Travis</char> awaits Wizard's answer.
-WIZARD
+<narr><char who="trav">Travis</char> awaits Wizard's answer.</narr>
+<d who="wiz">WIZARD
 She stayed in the cab, what's she
 gonna do? but she stiffed me. A real
-skunk.
-DOUGH-BOY
-A real skunk.
-Wizard realizes <char who="trav">Travis</char> and Dough-Boy may not have met.
-WIZARD
-(paternal)
-Travis, you know Dough-Boy, Charlie
-T.?
-Charlie T. nods sleepily. <char who="trav">Travis</char> indicates he knows DoughBoy.
-DOUGH-BOY
+skunk.</d>
+<d who="db">DOUGH-BOY
+A real skunk.</d>
+<char who="wiz">Wizard</char> realizes <char who="trav">Travis</char> and <char who="db">Dough-Boy</char> may not have met.
+<d>WIZARD
+<desc par="tone">(paternal)</desc>
+<char who="trav">Travis</char>, you know <char who="db">Dough-Boy</char>, <char who="char">Charlie
+T.</char>?</d>
+    <narr><char who="char">Charlie T.</char> nods sleepily. <char who="trav">Travis</char> indicates he knows <char who="db">DoughBoy</char>.</narr>
+<d who="db">DOUGH-BOY
 Yeah. We went to Harvard together.
-(laughs)
-WIZARD
-We call him Dough-Boy cause he likes
+<desc par="laughs">(laughs)</desc></d>
+<d who="wiz">WIZARD
+We call him <char who="db">DoughBoy</char> cause he likes
 the dollars. He'll chase a buck
-straight into Jersey.
-DOUGH-BOY
+straight into Jersey.</d>
+<d who="db">DOUGH-BOY
 Look who's talking?
-(gestures around table)
+<desc par="gestures">(gestures around table)</desc>
 Who else would stay up all night to
-catch the morning rush hour?
-<char who="trav">Travis</char> sips his coffee. Charlie T.'s eyelids slip shut.
-WIZARD
-(to Travis)
-So howsit?
-TRAVIS
-(w/o inflection)
+catch the morning rush hour?</d>
+<narr><char who="trav">Travis</char> sips his coffee. <char who="char">Charlie T.</charr>'s eyelids slip shut.</narr>
+<d who="wiz">WIZARD
+<desc par="to Travis">(to Travis)</desc>
+So howsit?</d>
+<d who="trav">TRAVIS
+<desc par="tone">(w/o inflection)</desc>
 Some fleet driver for Bell just got
-cut up. Just heard it on the radio.
-DOUGH-BOY
-Stick up?
-TRAVIS
+cut up. Just heard it on the radio.</d>
+<d who="db">DOUGH-BOY
+Stick up?</d>
+<d who="trav">TRAVIS
 No, just some crazy fucker. Cut have
-his ear off.
+his ear off.</d>
 (CONTINUED)
 22.
 CONTINUED:
-DOUGH-BOY
-Where.
-TRAVIS
-In the jungle. 122nd.</scene>
-<scene num="12"><char who="trav">Travis'</char> eyes turn toward the restaurant's other patrons.
+<d who="db">DOUGH-BOY
+Where.</d>
+<d who="trav">TRAVIS
+In the jungle. 122nd.</d></scene>
+<scene num="12"><narr><char who="trav">Travis'</char> eyes turn toward the restaurant's other patrons.
 POV: THREE STREET PEOPLE sitting at a table. One GUY, stoned,
 stares straight ahead. A raggedly attractive GIRL rest her
 head on the shoulder of the other, a heavily bearded YOUNG
@@ -897,154 +897,154 @@ momentarily lost in their separate world.
 divided between cultural contempt and morose jealousy.
 Why should these people enjoy the love and intimacy that has
 always eluded him? He must enjoy these schizoid emotions,
-because his eyes dwell on the couple.
-DOUGH-BOY
-(changing the subject)
+because his eyes dwell on the couple.</narr>
+<d who="db">DOUGH-BOY
+<desc par="changing the subject">(changing the subject)</desc>
 You run all over town, don't you,
-Travis?
-WIZARD
-(referring to 122nd
-St.)
+<char who="travis">Travis</char>?</d>
+<d who="wiz">WIZARD
+<desc  par="referring to 122nd St.">(referring to 122nd
+St.)</desc>
 Fuckin' Mau Mau land, that's what it
-is.
-<char who="trav">Travis</char> turns back to his companions.
-TRAVIS
-Huh?
-DOUGH-BOY
+is.</d>
+<narr><char who="trav">Travis</char> turns back to his companions.</narr>
+<d who="trav">TRAVIS
+Huh?</d>
+<d who="db">DOUGH-BOY
 I mean, you handle some pretty rough
-traffic, huh?
-TRAVIS
-(catching on)
-I have.
-DOUGH-BOY
-You carry a piece? You need one?
-TRAVIS
+traffic, huh?</d>
+<d who="trav">TRAVIS
+<desc par="catching on">(catching on)</desc>
+I have.</d>
+<d who="db">DOUGH-BOY
+You carry a piece? You need one?</d>
+<d who="trav">TRAVIS
 Nah.
-(a beat)
-I suppose not.
+<desc par="beat">(a beat)</desc>
+I suppose not.</d>
 (CONTINUED)
 23.
 CONTINUED:
-Waitress slaps down smudge-marked glass of water, and a
+<narr>Waitress slaps down smudge-marked glass of water, and a
 cheeseburger plate that looks more like a shrunken head on a
-serving platter.
-DOUGH-BOY
+serving platter.</narr>
+<d who="db">DOUGH-BOY
 Well, you ever need one, I know a
 feller that kin getcha a real nice
-deal. Lotsa shit around.
-WIZARD
+deal. Lotsa shit around.</d>
+<d who="wiz">WIZARD
 The cops and company raise hell they
-find out.
-<char who="trav">Travis</char> drops two Alka-Seltzer into his glass of water.
-DOUGH-BOY
+find out.</d>
+<narr><char who="trav">Travis</char> drops two Alka-Seltzer into his glass of water.</narr>
+<d who="db">DOUGH-BOY
 Truck drivers bring up Harlem Specials
 that blow up in your hand. But this
 guy don't deal no shit. Just quality.
 If you ever need anything, I can put
-you in touch.
-WIZARD
-For a fee.
-DOUGH-BOY
-For a fee.
-WIZARD
+you in touch.</d>
+<d who="wiz">WIZARD
+For a fee.</d>
+<d who="db">DOUGH-BOY
+For a fee.</d>
+<d who="wiz">WIZARD
 I never use mine. But it's a good
-thing to have. Just as a threat.
-DOUGH-BOY
-(getting up)
+thing to have. Just as a threat.</d>
+<d>DOUGH-BOY
+<desc par="getting up">(getting up)</desc>
 well, if there's this many hackies
 inside, there must be lots of hares
-outside. And I'm gonna hustle 'em.
-WIZARD
+outside. And I'm gonna hustle 'em.</d>
+<d who="wiz">WIZARD
 What ya gonna do with all that money,
-Dough-Boy?
-DOUGH-BOY
+<char who="db">Dough-Boy</char>?</d>
+<d who="db">DOUGH-BOY
 Support my kids. Can you dig it?
-(pause)
-nice to meet ya, Travis. So long,
-Wizard. Say hello to Malcolm X for
+<desc par="pause">(pause)</desc>
+nice to meet ya, <char who="trav">Travis</char>. So long,
+<char who="wiz">Wizard</char>. Say hello to <char who="malx">Malcolm X</char> for
 me.
-(nods to Charlie T.)
-Charlie T. remains unmoved: He is
-sleeping.
+<desc par="nods to Charlie T.">(nods to Charlie T.)</desc></d>
+<narr><char who="char">Charlie T.</char> remains unmoved: He is
+sleeping.</narr>
 (CONTINUED)
 24.
 CONTINUED:
-Dough-Boy exits. <char who="trav">Travis</char> smiles perfunctorily, then looks
-back at Wizard. They really don't have much to talk about,
-and the Wizard doesn't care to manufacture any more
+<narr><char who="db">Dough-Boy</char> exits. <char who="trav">Travis</char> smiles perfunctorily, then looks
+back at <char who="wiz">Wizard</char>. They really don't have much to talk about,
+and the <char who="wiz">Wizard</char> doesn't care to manufacture any more
 conversations.
-<char who="trav">Travis</char> scans the greasy spoon: The scene is unchanged.</scene>
-<scene num="13">CUT TO:
+<char who="trav">Travis</char> scans the greasy spoon: The scene is unchanged.</narr></scene>
+<scene num="13"><narr>CUT TO:
 EXT. PALANTINE HEADQUARTERS - ANOTHER DAY
 Traffic passes.
 INT. PALANTINE HEADQUARTERS
-Tom and Betsy are talking. She takes out a cigarette. He
-takes out matches to light it.
-BETSY
-Try holding the match like this.
-TOM
-This is gotta be a game, right?
-BETSY
-(putting on glasses)
-This I gotta see.
-TOM
-(burning fingers)
-Ouch!
-BETSY
-(giggling)
-Oh, are you all right?
-TOM
+<char who="tom">Tom</char> and <char who="bets">Betsy</char> are talking. She takes out a cigarette. He
+takes out matches to light it.</narr>
+<d who="bets">BETSY
+Try holding the match like this.</d>
+<d who="tom">TOM
+This is gotta be a game, right?</d>
+<d who="bets">BETSY
+<desc par="putting on glasses">(putting on glasses)</desc>
+This I gotta see.</d>
+<d who="tom">TOM
+<desc par="burning fingers">(burning fingers)</desc>
+Ouch!</d>
+<d who="bets">BETSY
+<desc par="giggling">(giggling)</desc>
+Oh, are you all right?</d>
+<d who="tom">TOM
 I'm great. Always set my fingers on
 fire. If you want to see another
-trick. I do this thing with my nose.
-BETSY
+trick. I do this thing with my nose.</d>
+<d who="bets">BETSY
 No. I just wanted to see if you could
 light it that way. The guy at the
-newsstand can.
-TOM
+newsstand can.</d>
+<d who="tom">TOM
 Ah, yes, the guy at the newsstand,
-Mr. Asbestos...
-BETSY
+Mr. Asbestos...</d>
+<d who="bets">BETSY
 He happens to be missing fingers. I
-first noticed when -
+first noticed when -</d>
 (CONTINUED)
 25.
 CONTINUED:
-TOM
-Is he Italian?
-BETSY
-No, why?
-TOM
-You sure he's not Italian?
-BETSY
-He's Black, OK?
-TOM
+<d who="tom">TOM
+Is he Italian?</d>
+<d who="bets">BETSY
+No, why?</d>
+<d who="tom">TOM
+You sure he's not Italian?</d>
+<d who="bets">BETSY
+He's Black, OK?</d>
+<d who="tom">TOM
 Well, If he had been Italian, they
 could have been shot off. Sometimes
 the mob does that to teach guys a
 lesson, If they blow a job or
-something.
-BETSY
+something.</d>
+<d who="bets">BETSY
 As I said, he isn't Italian.
 Besides, I thought they just killed
-them.
-TOM
+them.</d>
+<d who="tom">TOM
 Don't be naive. They can't kill
 everybody. They have different
 punishments for different things.
 Like, if they kill a stoo pigeon,
 they leave a canary on the body.
-It's symbolic.
-BETSY
+It's symbolic.</d>
+<d who="bets">BETSY
 Why don't they leave a pidgeon instead
-of a canary?
-TOM
+of a canary?</d>
+<d who="tom">TOM
 I don't know. Maybe they don't leave
 a canary. Don't be technical. What
 I'm saying is if this newsstand guy's
 Italian and his fingers are gone,
-maybe he's a thief.
-BETSY
+maybe he's a thief.</d>
+<d who="bets">BETSY
 First, he's not Italian. Second he's
 not a thief. I noticed the fingers
 when he was getting my change - the
@@ -1059,24 +1059,24 @@ cigarette. I couldn't help watching.
 CONTINUED:
 BETSY (CONT'D)
 I was dying to see how he'd light
-it.
-TOM
-With the other hand, right?
-BETSY
+it.</d>
+<d who="tom">TOM
+With the other hand, right?</d>
+<d who="bets">BETSY
 No, stupid. With the stubs. That's
-the whole point.
-TOM
+the whole point.</d>
+<d who="tom">TOM
 I know that guy. His hand looks like
 a paw. An old Black guy, the newsstand
-at -
-BETSY
+at -</d>
+<d who="bets">BETSY
 No, this is young - well, I'm never
 sure how old Black people are -
 but, anyway, he isn't old. That's
-for sure.
-TOM
-Show me how he did that again.</scene>
-<scene num="14">EXT. ACROSS THE STREET FROM HEADQUARTERS
+for sure.</d>
+<d who="tom">TOM
+Show me how he did that again.</d></scene>
+<scene num="14"><narr>EXT. ACROSS THE STREET FROM HEADQUARTERS
 <char who="trav">Travis</char> is striding briskly across Broadway toward the
 Palantine Headquarters.
 He s dressed the best we have seen him; his pants (not jeans)
@@ -1087,356 +1087,356 @@ Watching <char who="trav">Travis</char> enter Palantine's Headquarters, we are
 surprised to realize that <char who="trav">Travis</char> is really quite attractive.
 His deformities are psychological, not physical. He believes
 he is cursed, and therefore he is.
-<char who="trav">Travis</char> walks briskly into the office, and heads toward Betsy's
-desk. Tom walks over to greet him, but <char who="trav">Travis</char> ignores him.
-TRAVIS
-(at Betsy's desk)
-I want to volunteer.
-As the CAMERA examines <char who="trav">Travis'</char> face more closely, one can
+<char who="trav">Travis</char> walks briskly into the office, and heads toward <char who="bets">Betsy</char>'s
+desk. <char who="tom">Tom</char> walks over to greet him, but <char who="trav">Travis</char> ignores him.</narr>
+<d who="trav">TRAVIS
+<desc par="at Betsy's desk">(at Betsy's desk)</desc>
+I want to volunteer.</d>
+<narr>As the CAMERA examines <char who="trav">Travis'</char> face more closely, one can
 see the hollowness wrought by lack of sleep and sufficient
-diet.
+diet.</narr>
 (CONTINUED)
 27.
 CONTINUED:
-TOM
-(at Betsy's desk)
-If you'll come this way.
-<char who="trav">Travis</char> elbows Tom off.
-TRAVIS
-(to Betsy)
-No. I want to volunteer to you.
-TOM
-(under his voice)
-Bets.
-BETSY waves TOM off with a short gesture, indicating
-everything is OK. He walks away.
-BETSY
-(curious)
-And why is that?
-TRAVIS is on his best behavior. He smiles slightly:
-TRAVIS
+<d who="tom">TOM
+<desc par="at Betsy's desk">(at Betsy's desk)</desc>
+If you'll come this way.</d>
+<char who="trav">Travis</char> elbows <char who="tom">Tom</char> off.
+<d who="trav">TRAVIS
+<desc par="to Betsy">(to Betsy)</desc>
+No. I want to volunteer to you.</d>
+<d who="tom">TOM
+<desc par="under his voice">(under his voice)</desc>
+<char who="bets">Bets</char>.</d>
+<narr><char who="bets">BETSY</char> waves <char who="tom">TOM</char> off with a short gesture, indicating
+everything is OK. He walks away.</narr>
+<d who="bets">BETSY
+<desc par="curious">(curious)</desc>
+And why is that?</d>
+<narr><char who="trav">TRAVIS</char> is on his best behavior. He smiles slightly:</narr>
+<d>TRAVIS
 Because you are the most beautiful
-woman I have ever seen.
-BETSY is momentarily taken back, but pleased. TRAVIS' presence
+woman I have ever seen.</d>
+<narr><char who="bets">BETSY</char> is momentarily taken back, but pleased. <char who="trav">TRAVIS</char>' presence
 has a definite sexual charge. He has those star qualities
 BETSY looks for: She senses there is something special about
 the young man who stands before her. And then, too, there is
 that disarming smile. He is, as Betsy would say,
-"fascinating".
-BETSY
-(smiling)
+"fascinating".</narr>
+<d who="bets">BETSY
+<desc par="smiling">(smiling)</desc>
 Is that so?
-(pause)
+<desc par="pause">(pause)</desc>
 But what do you think of Charles
-Palantine?
-TRAVIS
-(his mind elsewhere)
-Who mam?
-BETSY
+Palantine?</d>
+<d who="trav">TRAVIS
+<desc par="his mind elsewhere">(his mind elsewhere)</desc>
+Who mam?</d>
+<d who="bets">BETSY
 Charles Palantine. The man you want
-to volunteer to help elect president.
-TRAVIS
+to volunteer to help elect president.</d>
+<d who="trav">TRAVIS
 Oh, I think he's a wonderful man.
-Make a great, great President.
+Make a great, great President.</d>
 (CONTINUED)
 28.
 CONTINUED:
-BETSY
-You want to canvass?
-TRAVIS
-Yes, mam.
-Betsy is interviewing Travis, but she is also teasing him a
-little, leading him on in a gentle feminine way:
-BETSY
+<d who="bets">BETSY
+You want to canvass?</d>
+<d who="trav">TRAVIS
+Yes, mam.</d>
+<narr><char who="bets">Betsy</char> is interviewing <char who="trav">Travis</char>, but she is also teasing him a
+little, leading him on in a gentle feminine way:</narr>
+<d who="trav">BETSY
 How do you feel about Senator
-Palantine's stand on welfare?
-This takes TRAVIS back a bit. He obviously doesn't have the
+Palantine's stand on welfare?</d>
+<narr>This takes <char who="trav">TRAVIS</char> back a bit. He obviously doesn't have the
 slightest idea what Palantine's stand on welfare is, in fact,
 he doesn't have any idea about politics whatsoever.
-TRAVIS thinks a moment, then improvises an answer:
-TRAVIS
+<char who="trav">TRAVIS</char> thinks a moment, then improvises an answer:</narr>
+<d who="trav">TRAVIS
 Welfare, mam? I think the Senator's
 right. People should work for a
 living. I do. I like to work. Every
 day. Get those old coots off welfare
-and make 'em work for a change.
-Betsy does a subtle double-take: This isn't exactly
+and make 'em work for a change.</d>
+<narr><char who="bets">Betsy</char> does a subtle double-take: This isn't exactly
 Palantine's position on welfare. She remain intrigued by
-Travis.
-BETSY
+<char who="trav">Travis</char>.</narr>
+<d who="bets">BETSY
 Well, that's not exactly what the
 Senator has proposed. You might not
 want to canvass, but there is plenty
 more other work we need done: Office
-work, filing, poster hanging.
-TRAVIS
-I'm a good worker, Betsy mam, a real
-good worker.
-BETSY
-(gesturing)
-if you talk to Tom, he'll assign you
-to something.
-TRAVIS
+work, filing, poster hanging.</d>
+<d who="trav">TRAVIS
+I'm a good worker, <char who="trav">Betsy</char> mam, a real
+good worker.</d>
+<d who="bets">BETSY
+<desc par="gesturing">(gesturing)</desc>
+if you talk to <char who="tom">Tom</char>, he'll assign you
+to something.</d>
+<d who="trav">TRAVIS
 If you don't mind, mam, I'd rather
-work for you.
-BETSY
-Well, we're all working tonight.
+work for you.</d>
+<d who="bets">BETSY
+Well, we're all working tonight.</d>
 (CONTINUED)
 29.
 CONTINUED:
-TRAVIS
-Well, Betsy mam, I drive a taxi at
-night.
-BETSY
+<d who="trav">TRAVIS
+Well, <char who="bets">Betsy</char> mam, I drive a taxi at
+night.</d>
+<d who="bets">BETSY
 Well, then, what is it you exactly
-want to do?
-TRAVIS
-(bolstering courage)
+want to do?</d>
+<d who="trav">TRAVIS
+<desc par="bolstering courage">(bolstering courage)</desc>
 If you don't mind, mam, I'd be mighty
 pleased if you'd go out and have
-some coffee and pie with me.
-Betsy doesn't quite know what to make of Travis. She is
+some coffee and pie with me.</d>
+<narr><char who="bets">Betsy</char> doesn't quite know what to make of <char who="trav">Travis</char>. She is
 curious, intrigued, tantalized. Like a moth, she draws closer
-to the flame.
-BETSY
-Why?
-TRAVIS
-Well, Betsy mam, I drive by this
+to the flame.</narr>
+<d who="bets">BETSY
+Why?</d>
+<d who="trav">TRAVIS
+Well, <char who="bets">Betsy</char> mam, I drive by this
 place here in my taxi many times a
 day. And I watch you sitting here at
 this big long desk with these
 telephones, and I say to myself,
 that's a lonely girl. She needs a
 friend. And I'm gonna be her friend.
-(smiles)
-<char who="trav">Travis</char> rarely smiles, but when he does his whole face glows.
+<desc par="smiles">(smiles)</desc></d>
+<narr><char who="trav">Travis</char> rarely smiles, but when he does his whole face glows.
 It is as if he is able to tap an inner reserve of charm
-unknown even to himself. Betsy is completely disarmed.
-BETSY
-I don't know...
-TRAVIS
+unknown even to himself. <char who="bets">Betsy</char> is completely disarmed.</narr>
+<d who="bets">BETSY
+I don't know...</d>
+<d who="trav">TRAVIS
 It's just to the corner, mam. In
 broad daytime. Nothing can happen.
-I'll be there to protect you.
-BETSY
-(smiles)
+I'll be there to protect you.</d>
+<d who="bets">BETSY
+<desc par="smiles">(smiles)</desc>
 All right.
-(relents)
+<desc par="relents">(relents)</desc>
 All right. I'm taking a break at
 four o'clock. If you're here then
 we'll go to the corner and have some
-coffee and pie.
+coffee and pie.</d>
 (CONTINUED)
 30.
 CONTINUED:
-TRAVIS
-Oh, I appreciate that, Betsy mam.
+<d who="trav">TRAVIS
+Oh, I appreciate that, <char who="bets">Betsy</char> mam.
 I'll be here at four o'clock exactly.
-(pause)
-And... ah... Betsy...
-BETSY
-Yes?
-TRAVIS
-My name is Travis.
-BETSY
-Thank you, Travis.
-<char who="trav">Travis</char> nods, turns and exits.
-Tom, who has been watching this interchange with a pseudostandoffish (actually jealous) air, steps over to Betsy. His
-manner demands some sort of explanation of what Betsy was
+<desc par="pause">(pause)</desc>
+And... ah... <char who="bets">Betsy</char>...</d>
+<d who="bets">BETSY
+Yes?</d>
+<d who="trav">TRAVIS
+My name is <char who="trav">Travis</char>.</d>
+<d who="bets">BETSY
+Thank you, <char who="trav">Travis</char>.</d>
+<narr><char who="trav">Travis</char> nods, turns and exits.
+<char who="tom">Tom</char>, who has been watching this interchange with a pseudostandoffish <desc par="actually jealous">(actually jealous)</desc> air, steps over to <char who="bets">Betsy</char>. His
+manner demands some sort of explanation of what <char who="bets">Betsy</char> was
 doing.
 Betsy simply shrugs (it's really none of his business) and
-says:
-BETSY
+says:</narr>
+<d who="trav">BETSY
 I'm just going to find out what the
-cabbies are thinking.</scene>
+cabbies are thinking.</d></scene>
 <scene num="15">CUT TO:
-<char who="trav">Travis</char> is pacing back and forth on Broadway just beyond the
-Palantine Headquarters. He checks his watch.
-TRAVIS (V.O.)
+<narr><char who="trav">Travis</char> is pacing back and forth on Broadway just beyond the
+Palantine Headquarters. He checks his watch.</narr>
+<d>TRAVIS (V.O.)
 April 26, 1972. Four o'clock p.m. I
-took Betsy to the Mayfair Coffee
-Shop on Broadway...
-INT. COFFEE SHOP
-<char who="trav">Travis</char> and Betsy are sitting in a booth of a small New York
+took <char who="bets">Betsy</char> to the Mayfair Coffee
+Shop on Broadway...</d>
+<narr>INT. COFFEE SHOP
+<char who="trav">Travis</char> and <char who="bets">Betsy</char> are sitting in a booth of a small New York
 Coffee Shop. They both have been served coffee; <char who="trav">Travis</char> is
 nervously turning his cup around in his hands.
-As <char who="trav">Travis</char> speaks V.O., WAITRESS brings their orders: Apple
-pie for TRAVIS, fruit compote for BETSY.
+As <char who="trav">Travis</char> speaks V.O., <char who="side">WAITRESS</char> brings their orders: Apple
+pie for <char who="trav">TRAVIS</char>, fruit compote for <char who="bets">BETSY</char>.</narr>
 (CONTINUED)
 31.
 CONTINUED:
-TRAVIS (V.O.)
+<d who="trav">TRAVIS (V.O.)
 I had black coffee and apple pie
 with a slice of melted yellow cheese.
-I think that was a good selection.
-Betsy had coffee and a fruit salad
-dish. She could have had anything
+I think that was a good selection.</d>
+<char who="bets">Betsy</char> had coffee and a fruit salad
+<narr>dish. She could have had anything
 she wanted.
-Betsy's conversation interrupts <char who="trav">Travis'</char> V.O.:
-BETSY
+<char who="bets">Betsy</char>'s conversation interrupts <char who="trav">Travis'</char> V.O.:</narr>
+<d who="bets">BETSY
 We've signed up 15.000 Palantine
 volunteers in New York so far. The
 organizational problems are becoming
-just staggering.
-TRAVIS
+just staggering.</d>
+<d who="trav">TRAVIS
 I know what you mean. I've got the
 same problems. I just can't get things
 organized. Little things, I mean.
 Like my room, my possessions.
 I should get one of those signs that
 says, "One of these days I'm Gonna
-Organezizied".
-<char who="trav">Travis</char> contorts his mouth to match his mispronunciation,
+Organezizied".</d>
+<narr><char who="trav">Travis</char> contorts his mouth to match his mispronunciation,
 than breaks into a big, friendly, infectious grin. The very
 sight of it makes one's heart proud.
-Betsy cannot help but be caught up in <char who="trav">Travis'</char> gin. <char who="trav">Travis'</char>
-contagious, quicksilver moods cause:
-BETSY
-(laughing)
+<char who="bets">Betsy</char> cannot help but be caught up in <char who="trav">Travis'</char> gin. <char who="trav">Travis'</char>
+contagious, quicksilver moods cause:</narr>
+<d who="bets">BETSY
+<desc par="laughing">(laughing)</desc>
 Travis, I never ever met anybody
-like you before.
-TRAVIS
-I can believe that.
-BETSY
-Where do you live?
-TRAVIS
+like you before.</d>
+<d who="trav">TRAVIS
+I can believe that.</d>
+<d who="bets">BETSY
+Where do you live?</d>
+<d who="trav">TRAVIS
 (evasive)
 Oh, uptown. You know. Some joint.
-It ain't much.
-BETSY
+It ain't much.</d>
+<d who="bets">BETSY
 So why did you decide to drive a
-taxi at night?
+taxi at night?</d>
 (CONTINUED)
 32.
 CONTINUED:
-TRAVIS
+<d who="trav">TRAVIS
 I had a regular job for a while,
 days. You know, doin' this, doin'
 that. But I didn't have anything to
 do at night. I got kinda lonely, you
 know, just wandering around. So I
 decided to works nights. It ain't
-good to be alone, you know.
-BETSY
+good to be alone, you know.</d>
+<d who="bets">BETSY
 After this job, I'm looking forward
-to being alone for a while.
-TRAVIS
+to being alone for a while.</d>
+<d who="trav">TRAVIS
 Yeah, well...
-(a beat)
+<desc par="beat">(a beat)</desc>
 In a cab you get to meet people.
 You meet lotsa people. It's good for
-you.
-BETSY
-What kind of people?
-TRAVIS
+you.</d>
+<d who="bets">BETSY
+What kind of people?</d>
+<d who="trav">TRAVIS
 Just people people, you know. Just
 people.
-(a beat)
-Had a dead man once.
-BETSY
-Really?
-TRAVIS
+<desc par="beat">(a beat)</desc>
+Had a dead man once.</d>
+<d who="bets">BETSY
+Really?</d>
+<d who="trav">TRAVIS
 He'd been shot. I didn't know that.
 He just crawled into the back seat,
 said "West 45th Street" and conked
-out.
-BETSY
-What did you do?
-TRAVIS
+out.</d>
+<d who="bets">BETSY
+What did you do?</d>
+<d who="trav">TRAVIS
 I shot the meter off, for one thing.
 I knew I wasn' going to get paid.
 Then I dropped him off at the cop
-shop. They took him.
-BETSY
-That's really something.
+shop. They took him.</d>
+<d who="bets">BETSY
+That's really something.</d>
 (CONTINUED)
 33.
 CONTINUED:
-TRAVIS
+<d who="trav">TRAVIS
 Oh, you see lots of freaky stuff in
 a cab. Especially when the moon's
-out.
-BETSY
-The moon?
-TRAVIS
+out.</d>
+<d who="bets">BETSY
+The moon?</d>
+<d who="trav">TRAVIS
 The full moon. One night I had three
 or four weirdoes in a row and I looked
 up and, sure enough, there it was -
-the full moon.
-Betsy laughs. <char who="trav">Travis</char> continues:
-TRAVIS
+the full moon.</d>
+<char who="bets">Betsy</char> laughs. <char who="trav">Travis</char> continues:
+<d who="trav">TRAVIS
 Oh, yeah. People will do anything in
 front of a taxi driver. I mean
 anything. People too cheap to rent a
 hotel room, people scoring dope,
 people shooting up, people who want
 to embarrass you.
-(a bitterness emerges)
+<desc par="a bitterness emerges">(a bitterness emerges)</desc>
 It's like you're not even there, not
-even a person. Nobody knows you.
-Betsy cuts <char who="trav">Travis'</char> bitterness short:
-BETSY
-Com'on, Travis. It's not that bad.
-I take lots of taxis.
-TRAVIS
-I know. I could have picked you up.
-BETSY
-Huh?
-TRAVIS
+even a person. Nobody knows you.</d>
+<narr><char who="bets">Betsy</char> cuts <char who="trav">Travis'</char> bitterness short:</narr>
+<d who="bets">BETSY
+Com'on, <char who="trav">Travis</char>. It's not that bad.
+I take lots of taxis.</d>
+<d who="trav">TRAVIS
+I know. I could have picked you up.</d>
+<d who="bets">BETSY
+Huh?</d>
+<d who="trav">TRAVIS
 Late one night. About three. At the
-plaza.
-BETSY
+plaza.</d>
+<d who="bets">BETSY
 Three in the morning? I don't think
 so. I have to go to bed early. I
 work days. It must have been somebody
-else.
-TRAVIS
+else.</d>
+<d who="trav">TRAVIS
 No. It was you. You had some manila
-folders and a pink bag from Saks.
+folders and a pink bag from Saks.</d>
 (CONTINUED)
 34.
 CONTINUED:
-Betsy, realizing <char who="trav">Travis</char> remembers her precisely, scrambles
-for a polite rationale for her behavior:
-BETSY
+<narr><char who="bets">Betsy</char>, realizing <char who="trav">Travis</char> remembers her precisely, scrambles
+for a polite rationale for her behavior:</narr>
+<d who="bets">BETSY
 You're right! Now I remember! It was
 after the Western regional planners
 were in town and the meeting went
 late. The next day I was completely
-bushed. It was unbelievable.
-TRAVIS
+bushed. It was unbelievable.</d>
+<d who="trav">TRAVIS
 If it wasn't for a drunk I would
 have picked you up. He wanted to go
-to the DMZ.
-BETSY
-The DMZ?
-TRAVIS
+to the DMZ.</d>
+<d who="bets">BETSY
+The DMZ?</d>
+<d who="trav">TRAVIS
 South Bronx. The worst. I tried to
 ditch him, but he was already in the
 cab, so I had to take him. That's
 the law. Otherwise I would have picked
-you up.
-BETSY
+you up.</d>
+<d who="bets">BETSY
 That would have been quite a
-coincidence.
-TRAVIS
+coincidence.</d>
+<d who="trav">TRAVIS
 You'd be surprised how often you see
 the same people, get the same fare.
 People have patterns. They do more
 or less the same things every day. I
-can tell.
-BETSY
+can tell.</d>
+<d who="bets">BETSY
 Well, I don't go to the Plaza every
-night.
-TRAVIS
+night.</d>
+<d who="trav">TRAVIS
 I didn't mean you. But just ordinary
-people. A guy I know - Dough-Boy -
+people. A guy I know - <char who="db">Dough-Boy</char> -
 met his wife that way. They got to
 talking. She said she usually caught
 the bus so he started picking her up
 at the bus stop, taking her home
-with the flag up.
-BETSY
+with the flag up.</d>
+<d who="bets">BETSY
 That's very romantic. Some of your
 fares must be interesting. See any
 (MORE)
@@ -1445,86 +1445,86 @@ fares must be interesting. See any
 CONTINUED:
 BETSY (CONT'D)
 stars, politicians, deliver any babies
-yet?
-TRAVIS
+yet?</d>
+<d who="trav">TRAVIS
 Well, no... not really... had some
 famous people in the cab.
-(remembering)
+<desc par="remembering">(remembering)</desc>
 I got this guy who makes lasers.
 Not regular lasers, not the big kind.
 Little lasers, pocket sized, small
 enough to clip your belt like a
 transistor radio, like a gun, you
-know. Like a ray gun. Zap.
-BETSY
-(laughs)
-What hours do you work?
-TRAVIS
+know. Like a ray gun. Zap.</d>
+<d who="bets">BETSY
+<desc par="laughs">(laughs)</desc>
+What hours do you work?</d>
+<d who="trav">TRAVIS
 I work a single, which means there's
 no replacement - no second man on
 the cab. Six to six, sometimes eight.
-Seventy-two hours a week.
-BETSY
-(amazed)
+Seventy-two hours a week.</d>
+<d who="bets">BETSY
+<desc par="amazed">(amazed)</desc>
 You mean you work seventy-two hours
-a week.
-TRAVIS
+a week.</d>
+<d who="trav">TRAVIS
 Sometimes 76 or 80. Sometimes I
 squeeze a few more hours in the
 morning. Eighty miles a day, a hundred
-miles a night.
-BETSY
-You must be rich.
-TRAVIS
-(big affectionate
-smile)
-It keeps ya busy.
-BETSY
-You know what you remind me of?
-TRAVIS
-What?
+miles a night.</d>
+<d wbo="bets">BETSY
+You must be rich.</d>
+<d who="trav">TRAVIS
+<desc par="big affectionate smile">(big affectionate
+smile)</desc>
+It keeps ya busy.</d>
+<d who="bets">BETSY
+You know what you remind me of?</d>
+<d who="trav">TRAVIS
+What?</d>
 (CONTINUED)
 36.
 CONTINUED:
-BETSY
+<d who="bets">BETSY
 That song by Kris Kristofferson,
 where it's said "Like a pusher, party
 truth, partly fiction, a walking
 contradiction".
-(smiles)
-TRAVIS
-I'm no pusher, Betsy. Honest. I never
-have pushed.
-TRAVIS
-I didn't mean that, Travis. Just the
-part about the contradiction.
-TRAVIS
-(more at ease)
-Oh. Who was that again?
-BETSY
-The singer?
-TRAVIS
+<desc par="smiles">(smiles)</desc></dwho>
+<d who="trav">TRAVIS
+I'm no pusher, <char who="bets">Betsy</char>. Honest. I never
+have pushed.</d>
+<d who="bets">BETSY
+I didn't mean that, <char who="who="trav"">Travis</char>. Just the
+part about the contradiction.</d>
+<d who="trav">TRAVIS
+<desc par="more at ease">(more at ease)</desc>
+Oh. Who was that again?</d>
+<d who="bets">BETSY
+The singer?</d>
+<d who="trav">TRAVIS
 Yeah. Yes. I don't follow music too
-much.
-BETSY
-(slowly)
-Kris Kristofferson.
-<char who="trav">Travis</char> looks at Betsy intently and they exchange smiles.</scene>
-<scene num="16">CUT TO:
+much.</d>
+<d who="bets">BETSY
+<desc par="slowly">(slowly)</desc>
+Kris Kristofferson.</d>
+<narr><char who="trav">Travis</char> looks at <char who="bets">Betsy</char> intently and they exchange smiles.</narr></scene>
+<scene num="16"><narr>CUT TO:
 <char who="trav">Travis</char> is walking confusedly around SAM GOODY'S at MIDDAY,
 obviously unable to locate what he desires.
 <char who="trav">Travis</char> is lost among the hip, young intellectual type that
 populate the store. He watches the stylish, attractive female
 help, unable to come right out and requests what he desires.
-A young SALESGIRL sees his plight, walks over and asks if he
+A young <char who="side">SALESGIRL</char> sees his plight, walks over and asks if he
 needs any help. <char who="trav">Travis</char> INAUDIBLY says a name to her, although
 the name is obviously Kris Kristofferson.
-The Salesgirl digs out Kristofferson's "Silver-Tongued Devil"
+The <char who="side">Salesgirl</char> digs out Kristofferson's "Silver-Tongued Devil"
 album for him.
-<char who="trav">Travis</char> says something additional to the Salesgirl and she
+<char who="trav">Travis</char> says something additional to the <char who="side">Salesgirl</char> and she
 goes off to gift-wrap the album.
-<char who="trav">Travis</char> emerges from the RECORD STORE, the brightly giftwrapped album proudly tucked under his arm.
-CUT TO:
+<char who="trav">Travis</char> emerges from the RECORD STORE, the brightly giftwrapped album proudly tucked under his arm.</narr>
+<narr>CUT TO:
 (CONTINUED)
 37.
 CONTINUED:
@@ -1552,8 +1552,8 @@ wait - a Black STREET WALKER crosses in front of the cab. We
 focus on (as <char who="trav">Travis</char> would) a YOUNG COUPLE embracing in the
 distance.
 As we travel, we hear <char who="trav">Travis'</char> random thoughts about selecting
-fares and tips:
-TRAVIS (V.O.)
+fares and tips:</narr>
+<d who="trav">TRAVIS (V.O.)
 You work at night, you get an
 instinct. You can smell them. The
 big tippers, the stiffs, the trouble
@@ -1563,8 +1563,8 @@ is best. go for the guys with
 suitcases. The rich are the worst
 tippers, hooks are lousy. Spooks
 are okay, but they don't live at
-Park Ave after all.
-The meter is activated: $.60 registers. Tick, tick, tick. A
+Park Ave after all.</d>
+<narr>The meter is activated: $.60 registers. Tick, tick, tick. A
 quick glance shows the woman is now seated. She says softly,
 "192 East 89". We take off with another jolt. Cross back up
 9th Ave, then cut through the park.
@@ -1584,79 +1584,80 @@ off again with a jolt.
 This is <char who="trav">Travis'</char> world: Dark side streets, garish glaring
 main streets, quick glances, quicker evaluations - a dozen
 instantaneous decisions a minute. Are these people, are these
-objects?</scene>
-<scene num="17">EXT. TRAVIS' TAXI speed down darkened street.
-<char who="trav">Travis</char> lets off a fare and pulls into line at the Plaza.
-TRAVIS (V.O.)
-I called Betsy again at her office,
+objects?</narr></scene>
+<scene num="17"><narr>EXT. TRAVIS' TAXI speed down darkened street.
+<char who="trav">Travis</char> lets off a fare and pulls into line at the Plaza.</narr>
+<d who="trav">TRAVIS (V.O.)
+I called <char who="bets">Betsy</char> again at her office,
 and she said maybe we could go to a
 movie together after she gets off
 work tomorrow. That's my day off.
 At first she hesitated, but I called her again and she agreed.
-(pause)
-Betsy. Betsy what? I forgot to ask
+<desc par="pause">(pause)</desc>
+<char who="bets">Betsy</char>. <char who="bets">Betsy</char> what? I forgot to ask
 her last name again. Damn. I've got
-to remember stuff like that.
-<char who="trav">Travis'</char> thoughts are with Betsy, as THREE MEN enter <char who="trav">Travis'</char>
+to remember stuff like that.</d>
+<char who="trav">Travis'</char> thoughts are with <char who="bets">Betsy</char>, as THREE MEN enter <char who="trav">Travis'</char>
 cab. He activates the meter and pulls off.
-MAN'S VOICE
-St. Regis Hotel.
-<char who="trav">Travis</char> checks the mirror. Scanning across the back seat, he
-recognizes the middle passenger. It is CHARLES PALANTINE,
+<d char="side">MAN'S VOICE
+St. Regis Hotel.</d>
+<narr><char who="trav">Travis</char> checks the mirror. Scanning across the back seat, he
+recognizes the middle passenger. It is <char who="pal">CHARLES PALANTINE</char>,
 candidate for President. He must have left the Hotel shortly
-after BETSY.
-Tom, seated on the jump seat, checks his watch and speaks
-deferentially to Palantine:
-TOM
+after <char who="bets">BETSY</char>.
+<char who="tom">Tom</char>, seated on the jump seat, checks his watch and speaks
+deferentially to <char who="pal">Palantine</char>:</narr>
+<d>TOM
 It's 12:30 now. You'll have fifteen
 minutes before the actual luncheon
-begins.
+begins.</d>
 (CONTINUED)
 39.
 CONTINUED:
-Palantine nods as his assistant picks up the thread of an
-earlier conversation.
-ASSISTANT
+<narr><char who="pal">Palantine</char> nods as his assistant picks up the thread of an
+earlier conversation.</narr>
+<d><char who="side">ASSISTANT</char>
 I don't think we have to worry about
 anybody here committing themselves
 until things start coming in from
-California.
-<char who="trav">Travis</char> recognizes his passenger. He puts out his cigarette.
-TRAVIS
+California.</d>
+<narr><char who="trav">Travis</char> recognizes his passenger. He puts out his cigarette.</narr>
+<d>TRAVIS
 (interrupting)
-Say, aren't you Charles Palantine,
-the candidate?
-PALANTINE
-(only mildly irritated)
-Yes I am.
-TRAVIS
+Say, aren't you <char who="pal">Charles Palantine</char>,
+the candidate?</d>
+<d>PALANTINE
+<desc par="mildly irritated">(only mildly irritated)</desc>
+Yes I am.</d>
+<d who="trav">TRAVIS
 Well, I'm one of your biggest
 supporters. I tell everybody that
 comes in this cab that they should
-vote for you.
-PALANTINE
-(pleased; glances to
-check <char who="trav">Travis'</char> license)
-Why, thank you Travis.
-TRAVIS
+vote for you.</d>
+<d who="pal">PALANTINE
+<desc par="pleased; glances to check Travis' license">(pleased; glances to
+check <char who="trav">Travis'</char> license)</desc>
+Why, thank you <char who="trav">Travis'</char>.</d>
+<d who="trav">TRAVIS
 I'm sure you'll win, sir. Everybody
 I know is going to vote for you.
-(a beat)
+<desc par="beat">(a beat)</desc>
 I was going to put one of your
 stickers on my taxi but the company
-said it was against their policy.
-PALANTINE
-(pleasant)
-I'll tell you, Travis, I've learned
+said it was against their policy.</d>
+<d who="pal">PALANTINE
+<desc par="pleasant">(pleasant)</desc>
+I'll tell you, <char who="trav">Travis</char>, I've learned
 more about this country sitting in
 taxi cabs than in the board room of
-General Motors.
-TOM
-(joking)
-And in some other places too...
-Palantine, his Assistant and Tom all laugh. Palantine, quickly
-reassuming candiorial mien, speaks to Travis:
+General Motors.</d>
+<d who="tom">TOM
+<desc par="joking">(joking)</desc>
+And in some other places too...</d>
+<narr><char who="pal">Palantine</char>, <char who="side">his Assistant</char> and <char>Tom</char> all laugh. <char who="pal">Palantine</char>, quickly
+reassuming candiorial mien, speaks to <char who="trav">Travis'</char>:</narr>
 (CONTINUED)</scene>
+<!--END PART 1-->
     </script>
 </root>
 <!--END PART 1-->
