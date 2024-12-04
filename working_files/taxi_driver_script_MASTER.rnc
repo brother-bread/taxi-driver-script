@@ -1,0 +1,75 @@
+#===Feel free to update the schema as needed===
+
+start = element root {production-cred, script}
+production-cred = element production-cred {mixed {title, writer, comp, copyright, corp, prod}}
+title = element title {"TAXI DRIVER"}
+writer = element writer{"Paul Schrader"}
+comp = element comp {"Shooting Script, 1976", year}
+copyright = element copyright {"Copyright © 1976", year}
+year = attribute year {"1976"}
+corp = element corp {"Columbia Pictures Corporation"}
+prod = element prod {"Italo-Judeo Productions, US"}
+person = element person {text}
+# A real person, not a character
+
+# The script. Entire thing.
+script = element script {mixed{openQuote, intro, scene*, narr*, d*, desc*}}
+openQuote = element openQuote {mixed {person}}
+intro = element intro {char*, narr*, text}
+
+# Scene #. Whole numbers only
+scene = element scene {(narr | d | loc | char | desc | text)* }
+num = attribute num {xsd:int}
+
+# Is someone speaking? and who is it? Wrap this around the entire chunk of dialogue.
+d = element d {(desc | par | char | v.o. | who | typo | text)*}
+v.o. = attribute v.o. {text|"trav"}#etc..... 
+
+# Use character attribute when the character is MENTIONED in dialogue or description
+# Side characters are rarely mentioned, use "side"
+char = element char {text, who}
+who = attribute who {"trav" | "wiz" | "tom" | "bets" | "pal" | "db" | "ez" | "iris" | "sport" | "char" | "ssman" | "side" | "melio" | "suit" | "john" | "pros" | "cab1" | "cab2" |"cab3" | "cab4" | "girl" | "movm" | "marty"} 
+
+# trav = Travis Bickle
+# wiz = Wizard
+# tom = Tom
+# bets = Betsy
+# pal = Charles Palantine
+# db = Dough-Boy
+# ez = Easy Andy
+# iris = Iris
+# sport = Sport
+# char = Charlie T.
+# ssman = Secret Service Man (that Travis interacts with)
+# melio = 'Melio
+# suit = Man in Business Suit (early in script)
+# john = Various 'Johns'
+# pros = Prostitute
+# cab1-4 = Cabbies 1 - 4 (early in the script)
+# girl = Concession Girl
+# movm = Male Movie Voice
+# marty = Young Passenger (played by Martin Scorsese)
+# side = Various minor side characters
+
+loc = element loc {mixed{ext*, int*, char*}}
+int = attribute int {"true"}
+ext = attribute ext {"true"}
+
+
+# Used for description of the shot (camera), scene description or action description
+desc = element desc {(par | char | text)*}
+par = attribute par {text}
+shot = element shot {(tracking | panning | slow | close | overhead | pov | char | loc | text)*}
+tracking = attribute tracking {"true"}
+panning = attribute panning {"true"}
+close = attribute close {"true"}
+pov = attribute pov {"true"}
+slow = attribute slow{"true"}
+overhead = attribute overhead{"true"}
+
+# Used for narrator speaking
+narr = element narr {(char | typo | shot | loc | char | desc | text)*}
+
+# Used for typo (remove if there are no typos, haven't completely looked)
+typo = element typo {text}
+
