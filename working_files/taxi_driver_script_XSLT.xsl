@@ -65,10 +65,39 @@
                     <xsl:apply-templates select="root/script/scene"/>
                 </div>
                 <hr/>
-                <h3>Interesting Stats/Info from the Script:</h3>
+                
+                <!-- stats -->
+                
+                <h2>Interesting Stats/Info from the Script:</h2>
+                <div class="stats">
+                    <p>The amount of times some characters were mentioned by other characters in dialogue or narration.</p>
+                    <ul><xsl:variable name="count" select="count(//char[@who = 'trav'])" />
+                    Travis is mentioned <xsl:value-of select="$count" /> times.</ul>
+                    <ul><xsl:variable name="count" select="count(//char[@who = 'bets'])" />
+                    Betsy is mentioned <xsl:value-of select="$count" /> times.</ul>
+                    <ul><xsl:variable name="count" select="count(//char[@who = 'iris'])" />
+                    Iris is mentioned <xsl:value-of select="$count" /> times.</ul>
+                    <ul><xsl:variable name="count" select="count(//char[@who = 'pal'])" />
+                    Palantine is mentioned <xsl:value-of select="$count" /> times.</ul>
+                    <hr/>
+                    <ul><xsl:variable name="count" select="count(//d[@who = 'trav'])" />
+                        Travis has <xsl:value-of select="$count" /> instances of dialogue.</ul>
+                    <ul><xsl:variable name="count" select="count(//d[@who = 'bets'])" />
+                        Betsy has <xsl:value-of select="$count" /> instances of dialogue.</ul>
+                    <ul><xsl:variable name="count" select="count(//d[@who = 'iris'])" />
+                        Iris has <xsl:value-of select="$count" /> instances of dialogue.</ul>
+                    <ul><xsl:variable name="count" select="count(//d[@who = 'pal'])" />
+                        Palantine has <xsl:value-of select="$count" /> instances of dialogue.</ul>
+                </div>
+                
+                <!-- we can write more obviously, just getting the first parts of it -->
+                <!-- end of stats -->
+                
             </body>
         </html>
     </xsl:template>
+    
+    <!-- script commands -->
   
     <xsl:template match="scene">
         <xsl:variable name="sceneNumber" select="position()"/>
@@ -96,5 +125,7 @@
     <xsl:template match="text()">
         <xsl:value-of select="normalize-space()"/>
     </xsl:template>
+    
+    <xsl:variable name="count" select="count(//@char[. = 'trav'])" />
     
 </xsl:stylesheet>
